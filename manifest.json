@@ -1,9 +1,9 @@
 {
-    "modpack": "Witchess",
+    "modpack": "Wichess",
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-27 19:59:55",
+    "created": "2026-07-27 20:00:56",
     "stats": {
         "mods": 206,
         "resourcepacks": 2,
