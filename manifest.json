@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-27 21:56:49",
+    "created": "2026-07-28 00:10:37",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -241,7 +241,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "9b7c09bb3043f962ae51f2cad69af743fb3f4095347580ff553c6c11e85af750",
+            "hash": "1a635d30282b5128076542a94968a3d9bda858dd6b194e9c6fc9aae24574b62b",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -976,7 +976,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "af5990ba568aaa5960cf5e7265bf750eb9c0320a4f688a68fec8ffd5820b3594",
+            "hash": "c0dcd001e00e2e39798ebdd0e21a2a2df82b86699d429f2ab9776d84723913f3",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1214,7 +1214,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 315,
-            "hash": "c1d487895764e1e228bf2972078914abbfca49d81f8d9768e22db008ed313fbe",
+            "hash": "d5a8ff9f64daa0245ee29b20b9fc8fc19eeb342937d40bf568edf66f480ed91f",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -3127,6 +3127,13 @@
             "size": 117108,
             "hash": "30fec2263f77bcd4002995d9fc127a911c964317dbd0e3c54e348954d1722d38",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/oceansdelight-neoforge-1.0.4-1.21.1.jar"
+        },
+        {
+            "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+            "type": "mod",
+            "size": 174972,
+            "hash": "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/polymorph-neoforge-1.1.0+1.21.1.jar"
         },
         {
             "path": "mods/polytone-neoforge-1.21-3.7.1.jar",
