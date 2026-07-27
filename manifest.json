@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-27 21:00:47",
+    "created": "2026-07-27 21:02:37",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -3512,6 +3512,13 @@
             "size": 546925,
             "hash": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+        },
+        {
+            "path": "shaderpacks/photon_v1.3b.zip",
+            "type": "shader",
+            "size": 3800987,
+            "hash": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/shaderpacks/photon_v1.3b.zip"
         }
     ]
 }
