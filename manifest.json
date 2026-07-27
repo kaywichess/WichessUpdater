@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-27 20:07:37",
+    "created": "2026-07-27 20:10:29",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
