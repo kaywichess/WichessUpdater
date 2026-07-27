@@ -1,9 +1,10 @@
 {
-    "modpack": "Witchess",
+    "modpack": "Wichess",
+    "instance": "Create+ 6.0.0Af (Edited by Wichess)",
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-27 20:10:29",
+    "created": "2026-07-27 21:00:13",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -2419,13 +2420,6 @@
             "size": 763725,
             "hash": "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/Zeta-1.1-40.jar"
-        },
-        {
-            "path": "mods/aeroencasedpipe-1.0.7.jar",
-            "type": "mod",
-            "size": 56483,
-            "hash": "1791aa8ca581a0bbfaec604ca4ac1acd4cccb77345adfad5660e86aa3f11ccb4",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/aeroencasedpipe-1.0.7.jar"
         },
         {
             "path": "mods/aileron-1.21.1-neoforge-1.1.4.jar",
