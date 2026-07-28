@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-28 17:48:27",
+    "created": "2026-07-28 18:29:01",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -241,7 +241,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "ec11a4a659a1cc342384ebd182fb4d24ce8370e6dd101675cbbecbabbad694ea",
+            "hash": "6f32d3a1ec717f7e6b3a12dd950291b71502b9808d40d0271da3753c5449a237",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -1221,7 +1221,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "3808af93562797d1fb5e621d8f67798e4453b38089b076866fd3718d1cc42b78",
+            "hash": "f478fef3f52c064475a8c50d4c03b82a0ddbe5da47dd7331e5f4141fbd69dbf5",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -1374,8 +1374,8 @@
         {
             "path": "config/modernfix-mixins.properties",
             "type": "config",
-            "size": 5539,
-            "hash": "d49d3035cca50c0d294a91ca9d446546b311c8fa4e7d3e538240aa65b1584e56",
+            "size": 5710,
+            "hash": "21a7a76ca64a4d01bb8d921e9c8e6a0f9bba7a4be025c82335654a9dc421cde6",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/modernfix-mixins.properties"
         },
         {
@@ -2973,13 +2973,6 @@
             "size": 2017417,
             "hash": "5c41d55ad9306f8d0a8c1b0174d71a3e333026b08adb6883653cd91ab6c5bea0",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/lambdynamiclights-4.8.8+1.21.1.jar"
-        },
-        {
-            "path": "mods/legacy-freecam-neoforge-1.1.2+mc1.21.jar",
-            "type": "mod",
-            "size": 1147653,
-            "hash": "6ad9cffff0ea7caefbe167ae5372500ee437cc0b2dadc9162eec21c75393ccf9",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/legacy-freecam-neoforge-1.1.2+mc1.21.jar"
         },
         {
             "path": "mods/letsdo-bakery-neoforge-2.1.6.jar",
