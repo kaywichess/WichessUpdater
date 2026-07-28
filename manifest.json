@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-28 17:47:47",
+    "created": "2026-07-28 17:48:27",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -2973,6 +2973,13 @@
             "size": 2017417,
             "hash": "5c41d55ad9306f8d0a8c1b0174d71a3e333026b08adb6883653cd91ab6c5bea0",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/lambdynamiclights-4.8.8+1.21.1.jar"
+        },
+        {
+            "path": "mods/legacy-freecam-neoforge-1.1.2+mc1.21.jar",
+            "type": "mod",
+            "size": 1147653,
+            "hash": "6ad9cffff0ea7caefbe167ae5372500ee437cc0b2dadc9162eec21c75393ccf9",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/legacy-freecam-neoforge-1.1.2+mc1.21.jar"
         },
         {
             "path": "mods/letsdo-bakery-neoforge-2.1.6.jar",
