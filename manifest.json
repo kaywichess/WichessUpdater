@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-28 12:27:45",
+    "created": "2026-07-28 15:56:33",
     "files": [
         {
             "path": "defaultconfigs/biolith/general.json",
@@ -145,6 +145,13 @@
             "size": 283566,
             "hash": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+            "path": "mods/BlockRunner-v21.1.2-1.21.1-NeoForge.jar",
+            "type": "mod",
+            "size": 107012,
+            "hash": "ff337de308c0ac97f15cb774c08e28a009288eca6c5aaa25c898d0f698bae75c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/BlockRunner-v21.1.2-1.21.1-NeoForge.jar"
         },
         {
             "path": "mods/CarryOnAeroCompat-1.21.1-1.1.1.jar",
