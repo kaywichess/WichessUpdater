@@ -4,8 +4,2087 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-28 15:56:33",
+    "created": "2026-07-28 16:01:59",
     "files": [
+        {
+            "path": "config/CoroUtil/General.toml",
+            "type": "config",
+            "size": 121,
+            "hash": "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/CoroUtil/General.toml"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/black_eye.json",
+            "type": "config",
+            "size": 177,
+            "hash": "0ce694b7842011f30705cbadc1140a105e15eabe5983dd62605d82e57fefd201",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/black_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/cold_eye.json",
+            "type": "config",
+            "size": 166,
+            "hash": "c4c4ab0d7606039bd261d43dd2f1800ba846e61dc8e9961b8ac4358cfabea768",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/cold_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/corrupted_eye.json",
+            "type": "config",
+            "size": 183,
+            "hash": "121aeee0689da901f5f79589ef7382b94c04bdefc0a87ea0ffebeac467dfbdf2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/corrupted_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/cryptic_eye.json",
+            "type": "config",
+            "size": 111,
+            "hash": "ef23863e4d876d0aa07af8d57f5d561b90ca72ef47441321fee2afdcf6202624",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/cryptic_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/cursed_eye.json",
+            "type": "config",
+            "size": 180,
+            "hash": "25b39227a4ef5f485544a0824baa72a8f676bd7ded445769bb538c6adc901ebd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/cursed_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/evil_eye.json",
+            "type": "config",
+            "size": 108,
+            "hash": "f5c592ff7652da20f93acc2137675a1cee29b4ecb905f56e9b35dadebd396e65",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/evil_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/exotic_eye.json",
+            "type": "config",
+            "size": 110,
+            "hash": "b2bc84a480810af68e8c555b366fff36ecb67e6eeda2782210eb38d15c957353",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/exotic_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/guardian_eye.json",
+            "type": "config",
+            "size": 180,
+            "hash": "a1c9380a91f328df917aad9bb1e4e605f2ca5695be7b8207cf581b8e03d63a63",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/guardian_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/lost_eye.json",
+            "type": "config",
+            "size": 184,
+            "hash": "791e725cce8319f03a71d7f6e534145dd698c4c0faea56a80d6be8090b1c7d76",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/lost_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/magical_eye.json",
+            "type": "config",
+            "size": 163,
+            "hash": "1249d8322568693f552dc08271969dd24a357f53368820bc620f49abdc22dcf0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/magical_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/nether_eye.json",
+            "type": "config",
+            "size": 172,
+            "hash": "87e971a20021e5d64bc210f452979d6a0b61475b3304d327a2a6f1410d3d8aaf",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/nether_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/old_eye.json",
+            "type": "config",
+            "size": 173,
+            "hash": "9a8869b45d8c8ad5bd39de49351dee6b035670e3bf09ddf2573d6960d449b05e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/old_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/rogue_eye.json",
+            "type": "config",
+            "size": 171,
+            "hash": "9bee3caeca1603cf33a8e1cbaee2ea9f0b422e1ce7ac0a3126c8647b2a8e24e8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/rogue_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/undead_eye.json",
+            "type": "config",
+            "size": 110,
+            "hash": "a9a571a279c7c20672d48aa7fb2546c461868cf1b80962e1367409f104c63ee8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/undead_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/witch_eye.json",
+            "type": "config",
+            "size": 111,
+            "hash": "41de53ad16ce01009a92b3d9f96e35aeac8a68a3de588d8fd9374b33f343a088",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/witch_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/Eyes/wither_eye.json",
+            "type": "config",
+            "size": 162,
+            "hash": "86499d5affe90f36aac3df626303ac797e44fd1f08719d3041f5be4174e458c7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/Eyes/wither_eye.json"
+        },
+        {
+            "path": "config/EndRemastered-NeoForge/endrem.json",
+            "type": "config",
+            "size": 223,
+            "hash": "5a8e5f5fa575402b8c9d415833a7acc1858e124729ae81fdfa305a602cb4c180",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/EndRemastered-NeoForge/endrem.json"
+        },
+        {
+            "path": "config/MouseTweaks.cfg",
+            "type": "config",
+            "size": 135,
+            "hash": "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/MouseTweaks.cfg"
+        },
+        {
+            "path": "config/accurateblockplacement.properties",
+            "type": "config",
+            "size": 121,
+            "hash": "16f49a3684b5eb25831b59787fc958ace9d1a7093fd1ed940541302246b8b93e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/accurateblockplacement.properties"
+        },
+        {
+            "path": "config/aeronautics-server.toml",
+            "type": "config",
+            "size": 2958,
+            "hash": "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/aeronautics-server.toml"
+        },
+        {
+            "path": "config/aileron.json",
+            "type": "config",
+            "size": 356,
+            "hash": "df5ae243f289a2ad1321c288d88a7bdbe85371983ae9daf5fdad4571cc42bb4c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/aileron.json"
+        },
+        {
+            "path": "config/alloyed.toml",
+            "type": "config",
+            "size": 120,
+            "hash": "b3575dd01154bb9c146abd84facbdac202fb81b501f2ae24da4b9d347ccdd484",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/alloyed.toml"
+        },
+        {
+            "path": "config/amendments-client.toml",
+            "type": "config",
+            "size": 4646,
+            "hash": "eb64b91d2cfa78a25356211ff408c8f2c62a676293e43d99d41098c824d1a6df",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/amendments-client.toml"
+        },
+        {
+            "path": "config/amendments-common.toml",
+            "type": "config",
+            "size": 5193,
+            "hash": "c9712d9a1f7dbf2786d1b0d5f351b456e4c76528b4e9987c90cd21f48bfff78f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/amendments-common.toml"
+        },
+        {
+            "path": "config/analogaudio/analogaudio.client.toml",
+            "type": "config",
+            "size": 1344,
+            "hash": "490e840bb186cc4a182bf76925591297c57a435650bde38ebfe7eac14b264aab",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/analogaudio/analogaudio.client.toml"
+        },
+        {
+            "path": "config/analogaudio/analogaudio.fileserver.toml",
+            "type": "config",
+            "size": 997,
+            "hash": "80e77dd550125b69b130606e10bff400b1b76be082ddd09428c1259ec272df71",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/analogaudio/analogaudio.fileserver.toml"
+        },
+        {
+            "path": "config/analogaudio/analogaudio.server.toml",
+            "type": "config",
+            "size": 814,
+            "hash": "349422faf46dcb0010690384cdd9db9cbd8f9f658638729b9c39d64772fa1203",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/analogaudio/analogaudio.server.toml"
+        },
+        {
+            "path": "config/appleskin-client.toml",
+            "type": "config",
+            "size": 1354,
+            "hash": "27db755b0b095080cc54dc3c17a3633b78082099eb9de781965c18ac34a7277d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/appleskin-client.toml"
+        },
+        {
+            "path": "config/appleskin.json5",
+            "type": "config",
+            "size": 1327,
+            "hash": "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/appleskin.json5"
+        },
+        {
+            "path": "config/aquaculture-common.toml",
+            "type": "config",
+            "size": 774,
+            "hash": "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/aquaculture-common.toml"
+        },
+        {
+            "path": "config/armorstatues-client.toml",
+            "type": "config",
+            "size": 863,
+            "hash": "02fa62a5e5de124174d2fe1e363d47e451d1b2969f7d8c228f36aba6dd329bd3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/armorstatues-client.toml"
+        },
+        {
+            "path": "config/asynclogger.toml",
+            "type": "config",
+            "size": 1020,
+            "hash": "1c72dce50aab0887ea166680a26216b74641c1245900387b65da47a0e46aae06",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asynclogger.toml"
+        },
+        {
+            "path": "config/asyncparticles/asyncparticles-mixin.properties",
+            "type": "config",
+            "size": 2226,
+            "hash": "7b6c5711cc8feabc093b57317fced15e818d1a00ec34e37671c2e2f1a1ac4a21",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
+        },
+        {
+            "path": "config/asyncparticles/asyncparticles.json",
+            "type": "config",
+            "size": 1525,
+            "hash": "95deb24f71c7a164d25a3ba9bf5228e3ac24b53d9984ceae9e3aa66961b2c999",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles.json"
+        },
+        {
+            "path": "config/autofish.config",
+            "type": "config",
+            "size": 321,
+            "hash": "834351cc3a19666bcfcbf099ecf3fc4f06eda706d2872a600ef49bc06c03837d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/autofish.config"
+        },
+        {
+            "path": "config/axesareweapons.json5",
+            "type": "config",
+            "size": 389,
+            "hash": "0abb77ff7bac93972090e77b8171d3f7976c500ed2be4bd946826abd17db200a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/axesareweapons.json5"
+        },
+        {
+            "path": "config/bakery-common.toml",
+            "type": "config",
+            "size": 4901,
+            "hash": "4d5bce6ceb2c092e593b9d1f2c83dbe848f84bb0fd8cc2eaa16792653f144d2e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/bakery-common.toml"
+        },
+        {
+            "path": "config/beachparty-common.toml",
+            "type": "config",
+            "size": 212,
+            "hash": "48a77bd262a90c3aed23198c70d8b05905fb727180410516be4b6c26f2e9a090",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/beachparty-common.toml"
+        },
+        {
+            "path": "config/betteradvancements-client.toml",
+            "type": "config",
+            "size": 915,
+            "hash": "5b965898d5b13c5557b603c68ed4ac79a4f850f3a7205eb3dbfc6116f2caf19a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betteradvancements-client.toml"
+        },
+        {
+            "path": "config/betterdeserttemples-neoforge-1_21.toml",
+            "type": "config",
+            "size": 566,
+            "hash": "d086bc41b30a69de78c1799f0d4850118fbf26919dc343a12b3230560d06f73c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterdeserttemples-neoforge-1_21.toml"
+        },
+        {
+            "path": "config/betterdeserttemples/neoforge-1_21/armorstands.json",
+            "type": "config",
+            "size": 1344,
+            "hash": "fa68fc23c488d2849cb2396d084abb1403fc764e05e09e28ec527ccf7415a4bf",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterdeserttemples/neoforge-1_21/armorstands.json"
+        },
+        {
+            "path": "config/betterdeserttemples/neoforge-1_21/itemframes.json",
+            "type": "config",
+            "size": 824,
+            "hash": "f98c08e88e0fa89c6113303f3d70ff14d175986c77d341011309c59438b99e5d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterdeserttemples/neoforge-1_21/itemframes.json"
+        },
+        {
+            "path": "config/betterdungeons-neoforge-1_21.toml",
+            "type": "config",
+            "size": 3419,
+            "hash": "3bedf4e1c213bf204faf5f56bdd22f2fa7b045cbcb3da2d6285a4bdb116aeb37",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterdungeons-neoforge-1_21.toml"
+        },
+        {
+            "path": "config/betterfortresses-neoforge-1_21.toml",
+            "type": "config",
+            "size": 417,
+            "hash": "c1098301da844f6e167c81fb6d2134a567215caf92ea02912dcd8494804f245c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterfortresses-neoforge-1_21.toml"
+        },
+        {
+            "path": "config/betterfortresses/neoforge-1_21/itemframes.json",
+            "type": "config",
+            "size": 1161,
+            "hash": "e6da84cfdc36af917e3e8ceb2c87d90b2cdf390e722341a59142e8bc84081375",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterfortresses/neoforge-1_21/itemframes.json"
+        },
+        {
+            "path": "config/betteroceanmonuments-neoforge-1_21.toml",
+            "type": "config",
+            "size": 411,
+            "hash": "25d995ddf8f2a61c241358cd806555513d7d262a326b82eb610e01cfac1d3161",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betteroceanmonuments-neoforge-1_21.toml"
+        },
+        {
+            "path": "config/betterstrongholds-neoforge-1_21.toml",
+            "type": "config",
+            "size": 610,
+            "hash": "63cade80c76b9162a27950027c3728e3ce3d1fddb18512a6937821ce308d37c7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterstrongholds-neoforge-1_21.toml"
+        },
+        {
+            "path": "config/betterstrongholds/neoforge-1_21/armorstands.json",
+            "type": "config",
+            "size": 1391,
+            "hash": "cd427dd2b6e4b61636cfc65a1921ed764e043253e9c91032b51a636b050c14f5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterstrongholds/neoforge-1_21/armorstands.json"
+        },
+        {
+            "path": "config/betterstrongholds/neoforge-1_21/itemframes.json",
+            "type": "config",
+            "size": 920,
+            "hash": "44aa723868fef5b2e8b4988a05409f108a0d5cf8d002c3b14fff6fab74e21cd3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterstrongholds/neoforge-1_21/itemframes.json"
+        },
+        {
+            "path": "config/betterstrongholds/neoforge-1_21/ores.json",
+            "type": "config",
+            "size": 346,
+            "hash": "de6422371b91ab6df051b340b2e6ad84a812eda5d607422508b3785af778d415",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterstrongholds/neoforge-1_21/ores.json"
+        },
+        {
+            "path": "config/betterstrongholds/neoforge-1_21/rareblocks.json",
+            "type": "config",
+            "size": 238,
+            "hash": "5ec52e961abc38fc0624386c89f0f159aa99d9bce529adc1a9b26c3c7d0ec02c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterstrongholds/neoforge-1_21/rareblocks.json"
+        },
+        {
+            "path": "config/bits_n_bobs-common.toml",
+            "type": "config",
+            "size": 1043,
+            "hash": "07d43b2d02e4d8e6588736973af399ac1ff0e30a3855bb9cc1ef89fdf646f9e4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/bits_n_bobs-common.toml"
+        },
+        {
+            "path": "config/bits_n_bobs-server.toml",
+            "type": "config",
+            "size": 924,
+            "hash": "4478eae9b70774b0568c09c758e63ebd37b1579c80ca88804498f7129c69f2f4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/bits_n_bobs-server.toml"
+        },
+        {
+            "path": "config/blueprint-client.toml",
+            "type": "config",
+            "size": 1010,
+            "hash": "cf742e2b9b3d16a1a9cb448b47f2434f7c7148b6af74192d59a4006c19ddc557",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/blueprint-client.toml"
+        },
+        {
+            "path": "config/blueprint-common.toml",
+            "type": "config",
+            "size": 516,
+            "hash": "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/blueprint-common.toml"
+        },
+        {
+            "path": "config/brick_and_mortar.json",
+            "type": "config",
+            "size": 21,
+            "hash": "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/brick_and_mortar.json"
+        },
+        {
+            "path": "config/c2me.toml",
+            "type": "config",
+            "size": 9465,
+            "hash": "9bd7129c1d85c5594a74b86a06af76d49ab33f6106b1c093c3d09d6866457fda",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/c2me.toml"
+        },
+        {
+            "path": "config/cardboarded_conveynience.json",
+            "type": "config",
+            "size": 31,
+            "hash": "0f60e4f61887bac819d9d8b21b7cd4bde87ee46b2b338beed18e33dd0484fac4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cardboarded_conveynience.json"
+        },
+        {
+            "path": "config/cardinal-components-api.properties",
+            "type": "config",
+            "size": 452,
+            "hash": "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cardinal-components-api.properties"
+        },
+        {
+            "path": "config/carryon-client.toml",
+            "type": "config",
+            "size": 582,
+            "hash": "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/carryon-client.toml"
+        },
+        {
+            "path": "config/carryon-common.toml",
+            "type": "config",
+            "size": 8427,
+            "hash": "64b3a9808f98d547bfc461f41e159cab6ef3c7525a98479e06adcbf65b027997",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/carryon-common.toml"
+        },
+        {
+            "path": "config/cbc_equally_opposite-common.toml",
+            "type": "config",
+            "size": 13264,
+            "hash": "382ddc8ef3e798a14e19a06301fe2ef186b540430744c735b557d8c4aafad2cb",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cbc_equally_opposite-common.toml"
+        },
+        {
+            "path": "config/cerulean-client.toml",
+            "type": "config",
+            "size": 160,
+            "hash": "9cd9a29e7a3401de1a3e722d0ffc2bc26ada03aed29757ec343f9aae2fbb44c5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cerulean-client.toml"
+        },
+        {
+            "path": "config/cerulean-common.toml",
+            "type": "config",
+            "size": 46,
+            "hash": "3dc7c7946c169dc640a9087614bddac4b99e631264590ffbfcb2796af8d5654a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cerulean-common.toml"
+        },
+        {
+            "path": "config/cerulean-server.toml",
+            "type": "config",
+            "size": 41,
+            "hash": "69f289132cc6b2ecf3569b40d2735c316531277c93535b309861972bc13a101f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cerulean-server.toml"
+        },
+        {
+            "path": "config/cerulean.yml",
+            "type": "config",
+            "size": 2475,
+            "hash": "d9b33f8022bfa4b9818b3abcc197414c1e88272d21b0df4a01db016c7887d5d2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cerulean.yml"
+        },
+        {
+            "path": "config/chat_heads.json5",
+            "type": "config",
+            "size": 229,
+            "hash": "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/chat_heads.json5"
+        },
+        {
+            "path": "config/chefsdelight-common.toml",
+            "type": "config",
+            "size": 728,
+            "hash": "34eaa67477d6830c40365c598662234b0ade2e2d72f53bb0e0128335a8485312",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/chefsdelight-common.toml"
+        },
+        {
+            "path": "config/chunkloaders-common.toml",
+            "type": "config",
+            "size": 1604,
+            "hash": "32d00ef84a71f82450eb463bdb0c7f977d6fadda7acd631023cfd3479c90439b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/chunkloaders-common.toml"
+        },
+        {
+            "path": "config/chunky/config.json",
+            "type": "config",
+            "size": 146,
+            "hash": "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/chunky/config.json"
+        },
+        {
+            "path": "config/chunky/tasks/minecraft/overworld.properties",
+            "type": "config",
+            "size": 160,
+            "hash": "80b670b32c8016fa3976cf3372d1338f7175e67e83506e7df37fb5c413d3d2ff",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/chunky/tasks/minecraft/overworld.properties"
+        },
+        {
+            "path": "config/collective.json5",
+            "type": "config",
+            "size": 2471,
+            "hash": "92809d098b5efeca95c37ec4fef9184bd169160d18efecf81f395c4030c0f83f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/collective.json5"
+        },
+        {
+            "path": "config/companion-common.yaml",
+            "type": "config",
+            "size": 542,
+            "hash": "d2699076e6295aefd93532404e9f82608f7180022ce352b36690e66e03f3b85d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/companion-common.yaml"
+        },
+        {
+            "path": "config/connectiblechains.toml",
+            "type": "config",
+            "size": 143,
+            "hash": "ee67bf5b38d9b1d68f51fb369d6f106ed687c1570d018985c5670f2279a570dd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/connectiblechains.toml"
+        },
+        {
+            "path": "config/connector.json",
+            "type": "config",
+            "size": 188,
+            "hash": "8cbaf0b6b1edef6b2eeaa610869cf469bba42c384991f6dd9e1bb530a87eb59d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/connector.json"
+        },
+        {
+            "path": "config/connectorextras_energy_bridge-common.toml",
+            "type": "config",
+            "size": 366,
+            "hash": "2427c9e930e69fae4ffff0913608be1cd8076421a28dc721264f0366ec87e24d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/connectorextras_energy_bridge-common.toml"
+        },
+        {
+            "path": "config/continuity.json",
+            "type": "config",
+            "size": 122,
+            "hash": "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/continuity.json"
+        },
+        {
+            "path": "config/create-client.toml",
+            "type": "config",
+            "size": 4790,
+            "hash": "dc68fbf4f3b89353ad6aa8175d5e19e26b1843b46e31a9b9607e0984ea8bb557",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create-client.toml"
+        },
+        {
+            "path": "config/create-common.toml",
+            "type": "config",
+            "size": 146,
+            "hash": "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create-common.toml"
+        },
+        {
+            "path": "config/create-server.toml",
+            "type": "config",
+            "size": 16286,
+            "hash": "17d75ae28003716274f2071b1b26c6cb1b22b6d3728649ca6463a8f2f3fb5244",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create-server.toml"
+        },
+        {
+            "path": "config/create_cardboarded_conveynience-common.toml",
+            "type": "config",
+            "size": 140,
+            "hash": "4bf687bc0c7a53e91efe6c5f4d49f58adb33cd5f0f9f5c8c4e0cb3b5e4691ce1",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_cardboarded_conveynience-common.toml"
+        },
+        {
+            "path": "config/create_connected-common.toml",
+            "type": "config",
+            "size": 1753,
+            "hash": "0c352f9d7c4bcf09d676222a1cd1cba8689b0dd1ca0847ff90427bae620a5ec6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_connected-common.toml"
+        },
+        {
+            "path": "config/create_connected-server.toml",
+            "type": "config",
+            "size": 2081,
+            "hash": "e2459ed5488a8abe79b0987c7527655c6fcc4677b15231fb5b630298b0119d4b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_connected-server.toml"
+        },
+        {
+            "path": "config/create_dragons_plus-client.toml",
+            "type": "config",
+            "size": 292,
+            "hash": "a3888f58a510d8e33e3caf8444af00c726f895f75f1d85f5b99c20c6ca420290",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_dragons_plus-client.toml"
+        },
+        {
+            "path": "config/create_dragons_plus-common.toml",
+            "type": "config",
+            "size": 1793,
+            "hash": "8f6fb30e56b4eec815d02127682717d9846a724dcd7d77ca8309aa7300498d22",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_dragons_plus-common.toml"
+        },
+        {
+            "path": "config/create_dragons_plus-server.toml",
+            "type": "config",
+            "size": 337,
+            "hash": "690d2f38456d0c23d3ed246e50251e8ac9f6a465f96dc7e58cda234256f4f189",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_dragons_plus-server.toml"
+        },
+        {
+            "path": "config/create_dragons_plus-simulated-extension-server.toml",
+            "type": "config",
+            "size": 2997,
+            "hash": "0de5b1bdbe632be0df582afe49a8073b38816b58a5016c0806cd6cf52666917e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_dragons_plus-simulated-extension-server.toml"
+        },
+        {
+            "path": "config/create_enchantment_industry-client.toml",
+            "type": "config",
+            "size": 150,
+            "hash": "a12fe6bf0d2f2b1c1a4ad05ab17cbd34f9fdf1dbcef20085f6b48a4dcf94d242",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_enchantment_industry-client.toml"
+        },
+        {
+            "path": "config/create_enchantment_industry-common.toml",
+            "type": "config",
+            "size": 386,
+            "hash": "c758403d22c507ca6c7c3e52460ac2668127b9a20ee2cd85e0e2aed1d252f35b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_enchantment_industry-common.toml"
+        },
+        {
+            "path": "config/create_enchantment_industry-server.toml",
+            "type": "config",
+            "size": 6941,
+            "hash": "b87028c1e17b49836c0b76266af22a3790e39c668cb4ace199aff7292163f825",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_enchantment_industry-server.toml"
+        },
+        {
+            "path": "config/create_new_age-client.toml",
+            "type": "config",
+            "size": 286,
+            "hash": "106458d22945b3ff5a8898a778e4a03ec6d30400321a39f5795b4e7d1385ea42",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_new_age-client.toml"
+        },
+        {
+            "path": "config/create_new_age-server.toml",
+            "type": "config",
+            "size": 4885,
+            "hash": "ca363f6369409c828cc841b0b5fb3b1f7fdaded08b62077ab0de33e2c4f3d5bd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_new_age-server.toml"
+        },
+        {
+            "path": "config/create_optical-client.toml",
+            "type": "config",
+            "size": 440,
+            "hash": "d0bc89392f5ef00512bc1fecdb208a7510277d39c78ed5adea3b241f69731491",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_optical-client.toml"
+        },
+        {
+            "path": "config/create_optical-server.toml",
+            "type": "config",
+            "size": 1342,
+            "hash": "bb73f17b6cdc1848fd8ab35edc0f7aaac388acea6ab1a1bf71a98282690265d8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_optical-server.toml"
+        },
+        {
+            "path": "config/createbigcannons-client.toml",
+            "type": "config",
+            "size": 3579,
+            "hash": "8378cf8e5036ae7ed39c381931f339c99b44132c8a1472ef14485fdd37ffc8cd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createbigcannons-client.toml"
+        },
+        {
+            "path": "config/createbigcannons-server.toml",
+            "type": "config",
+            "size": 11394,
+            "hash": "e2144a02f5959e6b2ab662d04963e1d2b75fe6ee872881fcf381e8f790f237a0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createbigcannons-server.toml"
+        },
+        {
+            "path": "config/createdieselgenerators-client.toml",
+            "type": "config",
+            "size": 243,
+            "hash": "2f1d8f05b215da49383ae8a04ffadcb12202830a6cb2fbada26caaed9ce35dec",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createdieselgenerators-client.toml"
+        },
+        {
+            "path": "config/createdieselgenerators-common.toml",
+            "type": "config",
+            "size": 407,
+            "hash": "9745e0b82765ee9ac86c4340a941e1f26c10b2da19296928d99169fc36dfea1a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createdieselgenerators-common.toml"
+        },
+        {
+            "path": "config/createdieselgenerators-server.toml",
+            "type": "config",
+            "size": 1540,
+            "hash": "3ff7bfbdf8353dffba0809215ab4812f63443843128b3d40ae6b377aeda94855",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createdieselgenerators-server.toml"
+        },
+        {
+            "path": "config/crittersandcompanions-common.json5",
+            "type": "config",
+            "size": 3742,
+            "hash": "6a4eef7a79d3cf381d89eb4d6bd47425334addb4fd4f590bf1cec14af8946d5b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/crittersandcompanions-common.json5"
+        },
+        {
+            "path": "config/curios-client.toml",
+            "type": "config",
+            "size": 766,
+            "hash": "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/curios-client.toml"
+        },
+        {
+            "path": "config/curios-common.toml",
+            "type": "config",
+            "size": 159,
+            "hash": "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/curios-common.toml"
+        },
+        {
+            "path": "config/curios-server.toml",
+            "type": "config",
+            "size": 483,
+            "hash": "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/curios-server.toml"
+        },
+        {
+            "path": "config/cutthrough-client.toml",
+            "type": "config",
+            "size": 244,
+            "hash": "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cutthrough-client.toml"
+        },
+        {
+            "path": "config/detailarmorbar.json",
+            "type": "config",
+            "size": 907,
+            "hash": "7ebbc0b7167e443f9b82e2fc5a52f5362e86d4de08ae946cc4a5849cad151007",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/detailarmorbar.json"
+        },
+        {
+            "path": "config/ding.toml",
+            "type": "config",
+            "size": 2601,
+            "hash": "a926afee796b6ebf85d8400b47151794c262e64381ed47326c4a1619a21c79b7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ding.toml"
+        },
+        {
+            "path": "config/dynamic_fps.json",
+            "type": "config",
+            "size": 3,
+            "hash": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/dynamic_fps.json"
+        },
+        {
+            "path": "config/e4mc/e4mc.toml",
+            "type": "config",
+            "size": 1090,
+            "hash": "d60b1f882c39af9a7dfea64b34f314ccfbd2aa907d046b0c5707fa02f6e6586d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/e4mc/e4mc.toml"
+        },
+        {
+            "path": "config/easy_villagers-client.toml",
+            "type": "config",
+            "size": 715,
+            "hash": "8708d36676467146df200eb77edec4b322d744ae0a2269ed999af2f024ead9c6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easy_villagers-client.toml"
+        },
+        {
+            "path": "config/easy_villagers-server.toml",
+            "type": "config",
+            "size": 1986,
+            "hash": "0b105ac9c24eaf2b5493d09837158b8ac3d72c35b23f5fcb9d5fdb6d67390b9e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easy_villagers-server.toml"
+        },
+        {
+            "path": "config/easyanvils-client.toml",
+            "type": "config",
+            "size": 215,
+            "hash": "60e86e56dd00882a281e8ee88800b75abd4119361edd91fc9948e7da13e2e473",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easyanvils-client.toml"
+        },
+        {
+            "path": "config/easyanvils-common.toml",
+            "type": "config",
+            "size": 414,
+            "hash": "643de42a3b9cd02a9c0d82d2b2119daa3373d51b7394baeba6b98332de6ecb8d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easyanvils-common.toml"
+        },
+        {
+            "path": "config/easyanvils-server.toml",
+            "type": "config",
+            "size": 3894,
+            "hash": "61228450bef35c2871f9438b12f4dfba2f52aa740038a8a27ffbf2fc659592a2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easyanvils-server.toml"
+        },
+        {
+            "path": "config/easymagic-client.toml",
+            "type": "config",
+            "size": 1171,
+            "hash": "2ad457c78882a34057f2fb5748398e9614a7fb5e491e8a868534de40cd2c1c6d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easymagic-client.toml"
+        },
+        {
+            "path": "config/easymagic-common.toml",
+            "type": "config",
+            "size": 368,
+            "hash": "7a98b95d82e470d071fd0f51d97f4fceb59f7de4af3129e9447f7241f8cac700",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easymagic-common.toml"
+        },
+        {
+            "path": "config/easymagic-server.toml",
+            "type": "config",
+            "size": 2315,
+            "hash": "b2860a71cdc35a6f3cee847622a7085c35d3691f26ca7b4c84098e14bc4369dc",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/easymagic-server.toml"
+        },
+        {
+            "path": "config/ecologics-common.toml",
+            "type": "config",
+            "size": 613,
+            "hash": "43d85eee37049a4624e00b20be7d5123b4df52e1c8cd67be9c6e1253089dcd9c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ecologics-common.toml"
+        },
+        {
+            "path": "config/emi-accelerator/reload-timings.json",
+            "type": "config",
+            "size": 255304,
+            "hash": "c1c05ebf70a2926704a32a5eedacc09390a70e4a8dcb369481e3642a4c9416bf",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/emi-accelerator/reload-timings.json"
+        },
+        {
+            "path": "config/emi-accelerator/stack-cache.emic",
+            "type": "config",
+            "size": 57267,
+            "hash": "b75878680dc92f9a581ea95a71794a6a9b3ae7ed8d175f45ea82cf8dbf660da4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/emi-accelerator/stack-cache.emic"
+        },
+        {
+            "path": "config/emi.css",
+            "type": "config",
+            "size": 10183,
+            "hash": "7f36d4ef4adbce6a25b5dab1057aaad8d3c6a247aada48a86f089a38ad02f887",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/emi.css"
+        },
+        {
+            "path": "config/emi_loot_config.toml",
+            "type": "config",
+            "size": 921,
+            "hash": "02972066845ad7ad2078c0a0eebeb0c4958dd71495ceb6993438be119630e8a6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/emi_loot_config.toml"
+        },
+        {
+            "path": "config/emixx/emixx-client.toml",
+            "type": "config",
+            "size": 301,
+            "hash": "82b12948584264fd9d5759fcf60788b5f898c28169323d9a4ca3ef31a0083332",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/emixx/emixx-client.toml"
+        },
+        {
+            "path": "config/enchancement.json",
+            "type": "config",
+            "size": 1875,
+            "hash": "4b05bf8157e8e83990a9860de7afe18be07e602559a0d43b87f0197bc71e903c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/enchancement.json"
+        },
+        {
+            "path": "config/ends_delight-common.toml",
+            "type": "config",
+            "size": 690,
+            "hash": "3518ceefb467631775957588db1f0ff6fc44c203a8d00c28e07f1813bbf06f1d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ends_delight-common.toml"
+        },
+        {
+            "path": "config/entity_model_features.json",
+            "type": "config",
+            "size": 1207,
+            "hash": "c633e3370aa256a71ab45aec68683a2ec4b29b6c5c2dfd430f9788a854ccf920",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/entity_model_features.json"
+        },
+        {
+            "path": "config/entity_texture_features.json",
+            "type": "config",
+            "size": 1421,
+            "hash": "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/entity_texture_features.json"
+        },
+        {
+            "path": "config/entityculling.json",
+            "type": "config",
+            "size": 1920,
+            "hash": "ca595202d97c91002832a452f504a5656aba983e0520857f36f9cf3f2d272802",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/entityculling.json"
+        },
+        {
+            "path": "config/etf_warnings.json",
+            "type": "config",
+            "size": 28,
+            "hash": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/etf_warnings.json"
+        },
+        {
+            "path": "config/everycomp-client.toml",
+            "type": "config",
+            "size": 1017,
+            "hash": "88b1db478a0ee9c37e9ec28335b204a966fe17e9ba0310bcf2caffd28b5589a5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/everycomp-client.toml"
+        },
+        {
+            "path": "config/everycomp-common.toml",
+            "type": "config",
+            "size": 2373,
+            "hash": "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/everycomp-common.toml"
+        },
+        {
+            "path": "config/expandeddelight-common.toml",
+            "type": "config",
+            "size": 129,
+            "hash": "e49e9e593220f269e65ab5940a850b743356376cddb357e6f765b11fa571e6bd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/expandeddelight-common.toml"
+        },
+        {
+            "path": "config/explorerscompass-client.toml",
+            "type": "config",
+            "size": 515,
+            "hash": "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/explorerscompass-client.toml"
+        },
+        {
+            "path": "config/explorerscompass-common.toml",
+            "type": "config",
+            "size": 2138,
+            "hash": "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/explorerscompass-common.toml"
+        },
+        {
+            "path": "config/explosiveenhancement.toml",
+            "type": "config",
+            "size": 1682,
+            "hash": "560e23d7928e2f7ad8626733d5b572c8b64356e0c80a3d0a8bb1635f68afae5a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/explosiveenhancement.toml"
+        },
+        {
+            "path": "config/exposure-client.toml",
+            "type": "config",
+            "size": 7540,
+            "hash": "0dc61228d59f64bc42e705ccfd3c9d633f805d836a9cacd669b39ade3be5a1e2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/exposure-client.toml"
+        },
+        {
+            "path": "config/exposure-common.toml",
+            "type": "config",
+            "size": 344,
+            "hash": "f2f309a4876192ac4b04d8f8f745d680ab8f368b6802acbd42d05748b986971d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/exposure-common.toml"
+        },
+        {
+            "path": "config/exposure-server.toml",
+            "type": "config",
+            "size": 5255,
+            "hash": "f48425f8dad0dbe60bdd0c32f0bff73a6d8f16b76afb94c9887c6aee492539d9",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/exposure-server.toml"
+        },
+        {
+            "path": "config/fabric/indigo-renderer.properties",
+            "type": "config",
+            "size": 290,
+            "hash": "208c07ccecdff659a4c198721872887b314305fdb6d1d79d4522380f72ccef97",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
+        },
+        {
+            "path": "config/fancytoasts/general.json",
+            "type": "config",
+            "size": 360,
+            "hash": "e872c082963757c55b336dd84a94196619c0ce297f6bb93966e20cc54e173c3b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fancytoasts/general.json"
+        },
+        {
+            "path": "config/fancytoasts/toast.json",
+            "type": "config",
+            "size": 327,
+            "hash": "1bd81d301399012ee5e699cccbe934ae1f53a26d6bc4873ce2a3df3639ec034d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fancytoasts/toast.json"
+        },
+        {
+            "path": "config/fancytoasts/toast_filtering.json",
+            "type": "config",
+            "size": 336,
+            "hash": "1a88586b9259f0aa429848c03b10ebabdd9b6261ca5ff322cb7bb68b9d442116",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fancytoasts/toast_filtering.json"
+        },
+        {
+            "path": "config/farm_and_charm-common.toml",
+            "type": "config",
+            "size": 5608,
+            "hash": "da28fa1644961041bdcf36405f79b7cd40eee9bd37af07fdc3cf39c1525dd040",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/farm_and_charm-common.toml"
+        },
+        {
+            "path": "config/farmersdelight-client.toml",
+            "type": "config",
+            "size": 470,
+            "hash": "4404ba02b39d4de63e4ab8fb5dd74e7994c23c67b15319c30f9fa207fa23ab1b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/farmersdelight-client.toml"
+        },
+        {
+            "path": "config/farmersdelight-common.toml",
+            "type": "config",
+            "size": 3757,
+            "hash": "1eecc5b541b94652f11619de138f2f958a71034e3466a7d7096f1b739060dce6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/farmersdelight-common.toml"
+        },
+        {
+            "path": "config/fastpaintings-common.toml",
+            "type": "config",
+            "size": 125,
+            "hash": "eae90793a2b7d3b5e632ffd83c0bd82864d0aa048745fcd02ac2169c0d7469d5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fastpaintings-common.toml"
+        },
+        {
+            "path": "config/ferritecore-mixin.toml",
+            "type": "config",
+            "size": 1603,
+            "hash": "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ferritecore-mixin.toml"
+        },
+        {
+            "path": "config/firstperson.json",
+            "type": "config",
+            "size": 593,
+            "hash": "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/firstperson.json"
+        },
+        {
+            "path": "config/flerovium.json",
+            "type": "config",
+            "size": 137,
+            "hash": "566a6c273c8d4854691a6829f20c433215e8a1b8f8fa01fd2ee394d5a54c9a24",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/flerovium.json"
+        },
+        {
+            "path": "config/flywheel-client.toml",
+            "type": "config",
+            "size": 636,
+            "hash": "4ae4bcb313f7215d1466a36e008e0f20805c98e1aa5b46b154a81dbfdb098e9d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/flywheel-client.toml"
+        },
+        {
+            "path": "config/fml.toml",
+            "type": "config",
+            "size": 1550,
+            "hash": "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fml.toml"
+        },
+        {
+            "path": "config/friendsandfoes.json",
+            "type": "config",
+            "size": 2377,
+            "hash": "858c5784048dbedf407356cabc4cda234b5c3419bec9563d31c2378277e2d5b0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/friendsandfoes.json"
+        },
+        {
+            "path": "config/fzzy_config/keybinds.toml",
+            "type": "config",
+            "size": 6403,
+            "hash": "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fzzy_config/keybinds.toml"
+        },
+        {
+            "path": "config/gravestone-client.toml",
+            "type": "config",
+            "size": 215,
+            "hash": "6509ae4ffdec69d81c54f5d52e42c6d7d507b68bd019e658486b37908c1a7ed8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/gravestone-client.toml"
+        },
+        {
+            "path": "config/gravestone-server.toml",
+            "type": "config",
+            "size": 1160,
+            "hash": "d6bee13ae45904562fc651630ce48fa4e70cd3853fe2f488403c9b67d0c74c2a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/gravestone-server.toml"
+        },
+        {
+            "path": "config/herbalbrews-common.toml",
+            "type": "config",
+            "size": 800,
+            "hash": "2885a870b53534c8f8d3c580973a1fee8a303e7919b482b7ccf946bb6822d6ba",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/herbalbrews-common.toml"
+        },
+        {
+            "path": "config/horsestatsmod-client.toml",
+            "type": "config",
+            "size": 608,
+            "hash": "18a1b6cd10a18d00c0cab78952aa97fdf5699956e90477a6c4273bdd68e39bba",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/horsestatsmod-client.toml"
+        },
+        {
+            "path": "config/ichunutil/ichunutil-client.toml",
+            "type": "config",
+            "size": 725,
+            "hash": "b8e97dd79596924cb27f68e792cc8daa30812a88f10775eb5fbf182f38050fb8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/ichunutil-client.toml"
+        },
+        {
+            "path": "config/ichunutil/themes/aztec.json",
+            "type": "config",
+            "size": 1993,
+            "hash": "e649c0232e3b952d3c1cb9739e8823d998a8d8ea7013cf04825f2e7deaba228f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/aztec.json"
+        },
+        {
+            "path": "config/ichunutil/themes/blue&black.json",
+            "type": "config",
+            "size": 2029,
+            "hash": "737f04c71b43552e74bf0426d7a973d7d55a73659de32673714b9a8a5acc5f62",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/blue&black.json"
+        },
+        {
+            "path": "config/ichunutil/themes/blue&orange.json",
+            "type": "config",
+            "size": 2033,
+            "hash": "feb283d9d1f9cc25f4bb1e568649ed3e6537c9a9ee63fea3506c3683948a7e0f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/blue&orange.json"
+        },
+        {
+            "path": "config/ichunutil/themes/default.json",
+            "type": "config",
+            "size": 2028,
+            "hash": "9f8d09018b881b6d4c6840c0bc81004840b0b723dde94fc0f224383e17bb8090",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/default.json"
+        },
+        {
+            "path": "config/ichunutil/themes/grassgreen.json",
+            "type": "config",
+            "size": 2002,
+            "hash": "1a9600633ee83e932c38442c34720a0ff659b70b4c304522d784a93766db0a9c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/grassgreen.json"
+        },
+        {
+            "path": "config/ichunutil/themes/green&black.json",
+            "type": "config",
+            "size": 2001,
+            "hash": "c147b5c7b1af5bb58134c7d6c96c5941fd3d4cbcfef70f58c2cc151ed70bfb67",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/green&black.json"
+        },
+        {
+            "path": "config/ichunutil/themes/lazygray.json",
+            "type": "config",
+            "size": 2033,
+            "hash": "61096ad80c1aa88ae1caaa774b28d3c8f2dd670fcdf861e549f8d3e19c8c31d6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/lazygray.json"
+        },
+        {
+            "path": "config/ichunutil/themes/monogeneric.json",
+            "type": "config",
+            "size": 2031,
+            "hash": "ed1ce4ab67241147f28878514110ed44882fcd8b598a7f7b7d3986119f9aa14f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/monogeneric.json"
+        },
+        {
+            "path": "config/ichunutil/themes/nightblack.json",
+            "type": "config",
+            "size": 1975,
+            "hash": "6e3dbd564f58d51ba79465157b2e6214b31910d7fbc07969bd9afbe2c296f65b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/nightblack.json"
+        },
+        {
+            "path": "config/ichunutil/themes/red&black.json",
+            "type": "config",
+            "size": 2044,
+            "hash": "d75c059cca81b4bd6e365614e10db45d3f16247ea0319ccb2b20a0a3f76b45dd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/red&black.json"
+        },
+        {
+            "path": "config/ichunutil/themes/skyblue.json",
+            "type": "config",
+            "size": 2042,
+            "hash": "1327fd9384d4d487552f153358d3062adfb156b4b69929de32a83426841ec258",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/skyblue.json"
+        },
+        {
+            "path": "config/ichunutil/themes/whitelight.json",
+            "type": "config",
+            "size": 2062,
+            "hash": "5369346e99dc684898a20bbf08791a940f55c9e70e4ed0b0fa8af9e04091dc78",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/whitelight.json"
+        },
+        {
+            "path": "config/immediatelyfast.json",
+            "type": "config",
+            "size": 1114,
+            "hash": "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/immediatelyfast.json"
+        },
+        {
+            "path": "config/iris-excluded.json",
+            "type": "config",
+            "size": 31,
+            "hash": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris-excluded.json"
+        },
+        {
+            "path": "config/iris.properties",
+            "type": "config",
+            "size": 297,
+            "hash": "1fc9e33f9bae20e8c069341d01132907e7e34eaaf959099f581f55488118ca44",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
+        },
+        {
+            "path": "config/irisflw-client.toml",
+            "type": "config",
+            "size": 720,
+            "hash": "b4bef9c640b01cebf7d8c1883b612d4b56b624df7438e2d718773a8321030de0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/irisflw-client.toml"
+        },
+        {
+            "path": "config/ixeris.toml",
+            "type": "config",
+            "size": 2139,
+            "hash": "81eba96be0162e3f0e6e3d6a9b481103bff2041246eeb14c970fdac5c7fa3d88",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ixeris.toml"
+        },
+        {
+            "path": "config/kerria.json",
+            "type": "config",
+            "size": 119,
+            "hash": "71135c8d6882fe45dd9f91f9fdf4e6a389cd3be23e7c3d9c493a5ee8c69671cd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/kerria.json"
+        },
+        {
+            "path": "config/kiwi-client.yaml",
+            "type": "config",
+            "size": 497,
+            "hash": "6578bc417fc04cc6e57b330bf139a6d48ab5fc9de95638ae283f14975178ac3d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/kiwi-client.yaml"
+        },
+        {
+            "path": "config/kiwi-common.yaml",
+            "type": "config",
+            "size": 135,
+            "hash": "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/kiwi-common.yaml"
+        },
+        {
+            "path": "config/konkrete/locals/de_de.local",
+            "type": "config",
+            "size": 369,
+            "hash": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/konkrete/locals/de_de.local"
+        },
+        {
+            "path": "config/konkrete/locals/en_us.local",
+            "type": "config",
+            "size": 426,
+            "hash": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/konkrete/locals/en_us.local"
+        },
+        {
+            "path": "config/konkrete/locals/pl_pl.local",
+            "type": "config",
+            "size": 313,
+            "hash": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/konkrete/locals/pl_pl.local"
+        },
+        {
+            "path": "config/konkrete/locals/pt_br.local",
+            "type": "config",
+            "size": 322,
+            "hash": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/konkrete/locals/pt_br.local"
+        },
+        {
+            "path": "config/lambdynlights.toml",
+            "type": "config",
+            "size": 8086,
+            "hash": "15ffb996a9bbd69a9e2943abd87c0d088ca87a83ca9915831d7db49cdae45745",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/lambdynlights.toml"
+        },
+        {
+            "path": "config/lithium.properties",
+            "type": "config",
+            "size": 267,
+            "hash": "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/lithium.properties"
+        },
+        {
+            "path": "config/lithostitched.json",
+            "type": "config",
+            "size": 284,
+            "hash": "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/lithostitched.json"
+        },
+        {
+            "path": "config/lodestone-client.toml",
+            "type": "config",
+            "size": 902,
+            "hash": "964c94d1f00b084d2b017641d3182a8af4846d602db0a26911ec0fdae72f8c43",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/lodestone-client.toml"
+        },
+        {
+            "path": "config/lootr-client.toml",
+            "type": "config",
+            "size": 471,
+            "hash": "4dd03ec5be94c8e56794c8fb0d0d1c907228d6881787d06e2743035e1dd4ca10",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/lootr-client.toml"
+        },
+        {
+            "path": "config/lootr-common.toml",
+            "type": "config",
+            "size": 8073,
+            "hash": "7b92a94fe8e273dd33804c9269bf749de2cdd597b0b5652a953e11fe7d4a74a0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/lootr-common.toml"
+        },
+        {
+            "path": "config/map_atlases-client.toml",
+            "type": "config",
+            "size": 5631,
+            "hash": "f51e497e18f9135f79efec0560ac7ae713b466d26f2acc0b56f7ca0b12f17065",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/map_atlases-client.toml"
+        },
+        {
+            "path": "config/map_atlases-common.toml",
+            "type": "config",
+            "size": 2423,
+            "hash": "63f8aae6a047dd770c0023d0546126eb2ca682c6268e3740c501cf0b48bee152",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/map_atlases-common.toml"
+        },
+        {
+            "path": "config/meadow-common.toml",
+            "type": "config",
+            "size": 61,
+            "hash": "324b52459292c3ebcedd329bfd7ac55347645d384ce19e172a5a11e8fbf50a93",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/meadow-common.toml"
+        },
+        {
+            "path": "config/midnightlib.json",
+            "type": "config",
+            "size": 37,
+            "hash": "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/midnightlib.json"
+        },
+        {
+            "path": "config/modelfix-client.toml",
+            "type": "config",
+            "size": 1359,
+            "hash": "cbd78c279e725045596be0de7132bed98920aa044528439d18e37091d324b077",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/modelfix-client.toml"
+        },
+        {
+            "path": "config/modernfix-common.toml",
+            "type": "config",
+            "size": 103,
+            "hash": "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/modernfix-common.toml"
+        },
+        {
+            "path": "config/modernfix-mixins.properties",
+            "type": "config",
+            "size": 5539,
+            "hash": "d49d3035cca50c0d294a91ca9d446546b311c8fa4e7d3e538240aa65b1584e56",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/modernfix-mixins.properties"
+        },
+        {
+            "path": "config/moonlight-client.toml",
+            "type": "config",
+            "size": 1266,
+            "hash": "5a6948c2b7927921cd3cab28446f301a24cf4db168533474d20dac154ad18167",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/moonlight-client.toml"
+        },
+        {
+            "path": "config/moonlight-common.toml",
+            "type": "config",
+            "size": 960,
+            "hash": "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/moonlight-common.toml"
+        },
+        {
+            "path": "config/moreculling.toml",
+            "type": "config",
+            "size": 1103,
+            "hash": "cbae23a6b1c07273a79cbfb2f30a52844c30412001cabecac05b8aaa414a97a5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/moreculling.toml"
+        },
+        {
+            "path": "config/mutils/mutils.json5",
+            "type": "config",
+            "size": 867,
+            "hash": "b054149158206069ae4f16d672f5dc43261c8c80a5f730d1b96d7f6648fd9398",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/mutils/mutils.json5"
+        },
+        {
+            "path": "config/naturalist-server.toml",
+            "type": "config",
+            "size": 625,
+            "hash": "6005917de3861bc3ab70a5fcb5f6917f1eba9968e7f90d95df690382dbfc81c2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/naturalist-server.toml"
+        },
+        {
+            "path": "config/naturescompass-client.toml",
+            "type": "config",
+            "size": 432,
+            "hash": "52155f5707537443156b47499d98b96dcdbf48ad0ed4ce8cfdf53cef7ffb8a9c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/naturescompass-client.toml"
+        },
+        {
+            "path": "config/naturescompass-common.toml",
+            "type": "config",
+            "size": 2194,
+            "hash": "e5bdd793b356a733dbb217de068c31fc8b06f43e36dd3db405a85178c0ef6a05",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/naturescompass-common.toml"
+        },
+        {
+            "path": "config/neoforge-client.toml",
+            "type": "config",
+            "size": 570,
+            "hash": "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/neoforge-client.toml"
+        },
+        {
+            "path": "config/neoforge-common.toml",
+            "type": "config",
+            "size": 764,
+            "hash": "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/neoforge-common.toml"
+        },
+        {
+            "path": "config/neoforge-server.toml",
+            "type": "config",
+            "size": 1167,
+            "hash": "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/neoforge-server.toml"
+        },
+        {
+            "path": "config/nerb/compat/emi.yaml",
+            "type": "config",
+            "size": 472,
+            "hash": "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/nerb/compat/emi.yaml"
+        },
+        {
+            "path": "config/nerb/general.yaml",
+            "type": "config",
+            "size": 633,
+            "hash": "ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/nerb/general.yaml"
+        },
+        {
+            "path": "config/netherite_horse_armor-common.toml",
+            "type": "config",
+            "size": 358,
+            "hash": "eba72106c5f1797e02acdc587ebaf8a6f770c5a8ce33622d97b4f81ba72f09a2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/netherite_horse_armor-common.toml"
+        },
+        {
+            "path": "config/notenoughanimations.json",
+            "type": "config",
+            "size": 3357,
+            "hash": "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/notenoughanimations.json"
+        },
+        {
+            "path": "config/nvidium-config.json",
+            "type": "config",
+            "size": 239,
+            "hash": "5d8c0a477a68a2f68ae3e55491c9981e79089836b9fbb1a64de14de7fb5b29f3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/nvidium-config.json"
+        },
+        {
+            "path": "config/offroad-server.toml",
+            "type": "config",
+            "size": 1128,
+            "hash": "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/offroad-server.toml"
+        },
+        {
+            "path": "config/ok_zoomer/config.json5",
+            "type": "config",
+            "size": 7331,
+            "hash": "5c2b861a3b328e1e518517062392dac1651d0b679485e5ba958ab552b491bc1f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ok_zoomer/config.json5"
+        },
+        {
+            "path": "config/particle_effects.json5",
+            "type": "config",
+            "size": 25,
+            "hash": "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/particle_effects.json5"
+        },
+        {
+            "path": "config/ponder-client.toml",
+            "type": "config",
+            "size": 615,
+            "hash": "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ponder-client.toml"
+        },
+        {
+            "path": "config/progresspeek.toml",
+            "type": "config",
+            "size": 546,
+            "hash": "47d0dd977322772c1a3405299c25fd1d9c0963655e44b2e08ab330265c746166",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/progresspeek.toml"
+        },
+        {
+            "path": "config/quark-common.toml",
+            "type": "config",
+            "size": 82139,
+            "hash": "03c8072f9908bb855ae1e8aff6fef2fd94b3b5a4b78129b99a3e44a03151f473",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/quark-common.toml"
+        },
+        {
+            "path": "config/quick-pack.json",
+            "type": "config",
+            "size": 41,
+            "hash": "18bb4bac8bf47499a99702cc1edcc2f70903524e365290a200b4c0cdadc9c6b2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/quick-pack.json"
+        },
+        {
+            "path": "config/railways-client.toml",
+            "type": "config",
+            "size": 2156,
+            "hash": "bfe3e8a560dec1e92041c926fc8b268965d375b939af7c6c2a44b0e2d7eaa8c3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/railways-client.toml"
+        },
+        {
+            "path": "config/railways-common.toml",
+            "type": "config",
+            "size": 327,
+            "hash": "cf3c9c86459a6d341ff8419fd49bf332d7e12b9a25e5c2605cfe5c0b28e52e41",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/railways-common.toml"
+        },
+        {
+            "path": "config/railways-server.toml",
+            "type": "config",
+            "size": 1774,
+            "hash": "e0652d971e2a299460b13412ee5b6ebe5731fdf7717b798de73a8c9082dbb722",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/railways-server.toml"
+        },
+        {
+            "path": "config/reliable_advancements.json",
+            "type": "config",
+            "size": 1172,
+            "hash": "a179df1c87364e35add2dba3994e06f372217ef3ab1d297d4b112fbb4a3d19bc",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/reliable_advancements.json"
+        },
+        {
+            "path": "config/reliable_advancements_layout.json",
+            "type": "config",
+            "size": 29623,
+            "hash": "2a9987bece8881f469884a9ed423d9036997df2b3d4447326a34c1e26b931a36",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/reliable_advancements_layout.json"
+        },
+        {
+            "path": "config/resourceful-config-web.json",
+            "type": "config",
+            "size": 196,
+            "hash": "a7dd32bbe8ab047fea9a621948c07d7684f6f8f20cbc7155e8ab6ddb82662e8b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/resourceful-config-web.json"
+        },
+        {
+            "path": "config/resourcify.json",
+            "type": "config",
+            "size": 277,
+            "hash": "627025125fb4c036491c7988b750e4a70638da1ed44b0a44e30beb08eca54064",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/resourcify.json"
+        },
+        {
+            "path": "config/ritchiesprojectilelib-server.toml",
+            "type": "config",
+            "size": 690,
+            "hash": "0118936ae0375d6c318582b47e0cf631540ba683d4a5db25a3ca7f090eda54c1",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ritchiesprojectilelib-server.toml"
+        },
+        {
+            "path": "config/sable-client.toml",
+            "type": "config",
+            "size": 925,
+            "hash": "d43d1fafb53d2f3f442f20f180d25663174922d021b762aceae5f052fe52915d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sable-client.toml"
+        },
+        {
+            "path": "config/sable-common.toml",
+            "type": "config",
+            "size": 2199,
+            "hash": "b6374af6f1c1c5435940649acbc5ec8fd3ed478a5c892ecd95e9a1b76af47c1b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sable-common.toml"
+        },
+        {
+            "path": "config/sable_beyond/dynamic-mass.json",
+            "type": "config",
+            "size": 146,
+            "hash": "98f9b1b3790f666691bcea393090b3affe33414ce80c4f6fb072f1ab911a12c4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sable_beyond/dynamic-mass.json"
+        },
+        {
+            "path": "config/sable_beyond/entity-mass.json",
+            "type": "config",
+            "size": 559,
+            "hash": "fa29247f1d992e3d82a0f298124c969389bfc67fd7abf2666460c9b3538789e8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sable_beyond/entity-mass.json"
+        },
+        {
+            "path": "config/sable_beyond/neoforge-compatibility.json",
+            "type": "config",
+            "size": 343,
+            "hash": "289de093c4ee0036000903f332b45ff8c2ed4fd15325c3030a6a0d1448893c92",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sable_beyond/neoforge-compatibility.json"
+        },
+        {
+            "path": "config/sable_beyond/other.json",
+            "type": "config",
+            "size": 63,
+            "hash": "95b9125baae3805e22c852b1105e965980c3c9d2bdb7bdbe2ca8c77444c403d6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sable_beyond/other.json"
+        },
+        {
+            "path": "config/scholar-client.toml",
+            "type": "config",
+            "size": 1065,
+            "hash": "ebc51d51254af9d388d7cba28314eb216db21746e82da841376d8e77f86c0f37",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/scholar-client.toml"
+        },
+        {
+            "path": "config/scholar-common.toml",
+            "type": "config",
+            "size": 837,
+            "hash": "814259c47ca4c640032cc7878d3ce08437d880ef7b23729f9b795841372dabed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/scholar-common.toml"
+        },
+        {
+            "path": "config/seamless_loading_screen.json",
+            "type": "config",
+            "size": 511,
+            "hash": "6a7bc5256cdcdca89400b6861b0dd1d6d0831452132880bc1f18ffefe5c32b61",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/seamless_loading_screen.json"
+        },
+        {
+            "path": "config/seamless_sleep-server.toml",
+            "type": "config",
+            "size": 275,
+            "hash": "d1f653364856716e0a16d0d2cad71eb211c4b5cbf765e4e260f021f1ae2797ee",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/seamless_sleep-server.toml"
+        },
+        {
+            "path": "config/seamless_sleep.toml",
+            "type": "config",
+            "size": 1002,
+            "hash": "9eb1bc978773313e9b81c3b8a790a342333affd7eba82c6344be14ab1f839c6f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/seamless_sleep.toml"
+        },
+        {
+            "path": "config/simulated-client.toml",
+            "type": "config",
+            "size": 1009,
+            "hash": "944ba0d36dfe00436e814fffd736acdd51292da18a01a060ea6ffbcf3dc7388b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/simulated-client.toml"
+        },
+        {
+            "path": "config/simulated-server.toml",
+            "type": "config",
+            "size": 7015,
+            "hash": "74ceaca226933e2471df76e5f6a8b1d0e2e339754419fd7c0c8f37fb3b90d243",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/simulated-server.toml"
+        },
+        {
+            "path": "config/sliceanddice-client.toml",
+            "type": "config",
+            "size": 27,
+            "hash": "765cd3bbbdd6ac865481befc841cf5a494412927d91857eb7561b213aad424d2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sliceanddice-client.toml"
+        },
+        {
+            "path": "config/sliceanddice-common.toml",
+            "type": "config",
+            "size": 451,
+            "hash": "2243b6025389c25e688c28231f4a68342da76f14d1d2da9e601c275203d6708f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sliceanddice-common.toml"
+        },
+        {
+            "path": "config/smartblockplacement.json",
+            "type": "config",
+            "size": 17,
+            "hash": "5acf3ff77b4420677b5923071f303facaba7a9273a346284a667a275df325146",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/smartblockplacement.json"
+        },
+        {
+            "path": "config/smartblockplacement.properties",
+            "type": "config",
+            "size": 76,
+            "hash": "aca6b0db2f1bbb64c6f98efeecf459a4497242cdcf53a4b06b673a5431df46e2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/smartblockplacement.properties"
+        },
+        {
+            "path": "config/smarterfarmers-common.toml",
+            "type": "config",
+            "size": 684,
+            "hash": "b7b176461c4484b267d5aaab7f1e4b6cae9990b499313dcce84e7f32f109396e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/smarterfarmers-common.toml"
+        },
+        {
+            "path": "config/smoothswapping.json",
+            "type": "config",
+            "size": 121,
+            "hash": "4f7e6faf59edd681a191c6184b5ce80a7c1ce9eba14f8cdf5069b4e364316f1e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/smoothswapping.json"
+        },
+        {
+            "path": "config/sodium-extra-options.json",
+            "type": "config",
+            "size": 11861,
+            "hash": "e6afb1513e31f89def4cda81a97b003ed68e8ac6f2592b075a3bad8c9683de60",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sodium-extra-options.json"
+        },
+        {
+            "path": "config/sodium-extra.properties",
+            "type": "config",
+            "size": 360,
+            "hash": "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sodium-extra.properties"
+        },
+        {
+            "path": "config/sodium-fingerprint.json",
+            "type": "config",
+            "size": 427,
+            "hash": "ecbe5f0b10d7c526d6ec1ee26f0135b2cce59701555261c2bce33c14c628b09a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sodium-fingerprint.json"
+        },
+        {
+            "path": "config/sodium-mixins.properties",
+            "type": "config",
+            "size": 258,
+            "hash": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sodium-mixins.properties"
+        },
+        {
+            "path": "config/sodium-options.json",
+            "type": "config",
+            "size": 761,
+            "hash": "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sodium-options.json"
+        },
+        {
+            "path": "config/sophisticatedbackpacks-common.toml",
+            "type": "config",
+            "size": 114,
+            "hash": "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sophisticatedbackpacks-common.toml"
+        },
+        {
+            "path": "config/sophisticatedbackpacks-server.toml",
+            "type": "config",
+            "size": 22886,
+            "hash": "342b759c795a93802b7a4f861fa527af1c0c38b56a45ce7ff403e5e0d9716d38",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sophisticatedbackpacks-server.toml"
+        },
+        {
+            "path": "config/sophisticatedcore-client.toml",
+            "type": "config",
+            "size": 469,
+            "hash": "467c9ffc84322873121a2e109258245030ec4d0608b7181a739681ce685a63c9",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sophisticatedcore-client.toml"
+        },
+        {
+            "path": "config/sophisticatedcore-common.toml",
+            "type": "config",
+            "size": 3187,
+            "hash": "433e9c4e37fe82109c99ebb2417b3211f5f044fda0da3e2130f74f8f319ec171",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sophisticatedcore-common.toml"
+        },
+        {
+            "path": "config/sounds/chat.json",
+            "type": "config",
+            "size": 621,
+            "hash": "2cd59ae928e902c98530dcdedeff45ff3e08d42dd323ac264ecd5b714752b3be",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sounds/chat.json"
+        },
+        {
+            "path": "config/sounds/event.json",
+            "type": "config",
+            "size": 801,
+            "hash": "690ecaab33f6d9d5599ffdf340b92980eaa92ea1231edd1b6d9e81553b9a3ee3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sounds/event.json"
+        },
+        {
+            "path": "config/sounds/mod_utils.json",
+            "type": "config",
+            "size": 41,
+            "hash": "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sounds/mod_utils.json"
+        },
+        {
+            "path": "config/sounds/ui.json",
+            "type": "config",
+            "size": 2108,
+            "hash": "ad2d93625c17340af17d4f8160853cb2a8db338ebc5e8989c574798039379f56",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sounds/ui.json"
+        },
+        {
+            "path": "config/sounds/world.json",
+            "type": "config",
+            "size": 1778,
+            "hash": "8e7113693174d8de887b2f00e4e90accd087cb06db15d80080afc9fc0b6eb228",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sounds/world.json"
+        },
+        {
+            "path": "config/spelunkery-client.toml",
+            "type": "config",
+            "size": 52,
+            "hash": "36635dc4076f7b1a3b533290938cdabceb69f6eb17ae189aa5d6bacacdd005fd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/spelunkery-client.toml"
+        },
+        {
+            "path": "config/spelunkery-common.toml",
+            "type": "config",
+            "size": 1156,
+            "hash": "d0e58947a3b9803a3cea95fa1e0f1b567c595f18fb262969f40973aeda2eca54",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/spelunkery-common.toml"
+        },
+        {
+            "path": "config/statuseffectbars-common.toml",
+            "type": "config",
+            "size": 3129,
+            "hash": "fe14b885cf058a592c424ece361c8c64178e5ccf932404f263fb8e409edd3b9e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/statuseffectbars-common.toml"
+        },
+        {
+            "path": "config/structure_layout_optimizer.jsonc",
+            "type": "config",
+            "size": 1058,
+            "hash": "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/structure_layout_optimizer.jsonc"
+        },
+        {
+            "path": "config/stylisheffects-client.toml",
+            "type": "config",
+            "size": 10292,
+            "hash": "a8a09363154cb398dacd5a3707f705ad8333d95b2ba8021abd9af7eb360fd7ef",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/stylisheffects-client.toml"
+        },
+        {
+            "path": "config/supplementaries-client.toml",
+            "type": "config",
+            "size": 9105,
+            "hash": "1a72034740e1f1fe59ea846c7cb6293adbb9db9982d2ff800d1e153aa9daecdd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/supplementaries-client.toml"
+        },
+        {
+            "path": "config/supplementaries-common.toml",
+            "type": "config",
+            "size": 27752,
+            "hash": "76509eed51fb4284bf2d7a76c6c54bd33467d3bb416c907cedbc5a89186fa567",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/supplementaries-common.toml"
+        },
+        {
+            "path": "config/tectonic.json",
+            "type": "config",
+            "size": 4328,
+            "hash": "88ac9fd71410c3ba66e5a775a4d38ebd3fec819184996f3d6c3091188532adb1",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/tectonic.json"
+        },
+        {
+            "path": "config/tinymobfarm_common.yaml",
+            "type": "config",
+            "size": 1397,
+            "hash": "e53ec43ea657bdbd9f71243ebec3f67c6cbf551f0251609a740450acac012968",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/tinymobfarm_common.yaml"
+        },
+        {
+            "path": "config/transition.json",
+            "type": "config",
+            "size": 62,
+            "hash": "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/transition.json"
+        },
+        {
+            "path": "config/trashslot-common.toml",
+            "type": "config",
+            "size": 742,
+            "hash": "e206fb54c03e7d6c3c4661cf2e01b7c704b3265f9200cb382e5ed6aba2c18fb3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/trashslot-common.toml"
+        },
+        {
+            "path": "config/treechop-client.toml",
+            "type": "config",
+            "size": 1399,
+            "hash": "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/treechop-client.toml"
+        },
+        {
+            "path": "config/treechop-common.toml",
+            "type": "config",
+            "size": 9496,
+            "hash": "449c3f41e2e6b186c7053d7e6a7aae19882009ce5a10c84fcaefe8ec85491b58",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/treechop-common.toml"
+        },
+        {
+            "path": "config/trender.json",
+            "type": "config",
+            "size": 47,
+            "hash": "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/trender.json"
+        },
+        {
+            "path": "config/vinery.toml",
+            "type": "config",
+            "size": 3248,
+            "hash": "19912990f7f94b54ea5e3acd3eecb20e43f4005a13d1dbe929da5976b91e30b7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/vinery.toml"
+        },
+        {
+            "path": "config/voicechat/category-volumes.properties",
+            "type": "config",
+            "size": 46,
+            "hash": "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/category-volumes.properties"
+        },
+        {
+            "path": "config/voicechat/player-volumes.properties",
+            "type": "config",
+            "size": 44,
+            "hash": "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/player-volumes.properties"
+        },
+        {
+            "path": "config/voicechat/translations.properties",
+            "type": "config",
+            "size": 1182,
+            "hash": "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/translations.properties"
+        },
+        {
+            "path": "config/voicechat/username-cache.json",
+            "type": "config",
+            "size": 2,
+            "hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/username-cache.json"
+        },
+        {
+            "path": "config/voicechat/voicechat-client.properties",
+            "type": "config",
+            "size": 5064,
+            "hash": "1e00e6c3edc7938433e7d65363b28c2e1959c465e595d7e0a78c5740d408c979",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/voicechat-client.properties"
+        },
+        {
+            "path": "config/voicechat/voicechat-server.properties",
+            "type": "config",
+            "size": 2830,
+            "hash": "b11a18db607f0e412c662f7a5ec32c9d512db3a0df3e7d06ad688c9f7b254d42",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/voicechat-server.properties"
+        },
+        {
+            "path": "config/xaero/lib/client.cfg",
+            "type": "config",
+            "size": 26,
+            "hash": "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/lib/client.cfg"
+        },
+        {
+            "path": "config/xaero/lib/common.cfg",
+            "type": "config",
+            "size": 236,
+            "hash": "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/lib/common.cfg"
+        },
+        {
+            "path": "config/xaero/lib/profiles/default.cfg",
+            "type": "config",
+            "size": 121,
+            "hash": "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/lib/profiles/default.cfg"
+        },
+        {
+            "path": "config/xaero/lib/server_profiles/default.cfg",
+            "type": "config",
+            "size": 75,
+            "hash": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/lib/server_profiles/default.cfg"
+        },
+        {
+            "path": "config/xaero/minimap/client.cfg",
+            "type": "config",
+            "size": 235,
+            "hash": "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/client.cfg"
+        },
+        {
+            "path": "config/xaero/minimap/common.cfg",
+            "type": "config",
+            "size": 147,
+            "hash": "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/common.cfg"
+        },
+        {
+            "path": "config/xaero/minimap/default_radar_categories_client.json",
+            "type": "config",
+            "size": 5531,
+            "hash": "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/default_radar_categories_client.json"
+        },
+        {
+            "path": "config/xaero/minimap/default_radar_categories_server.json",
+            "type": "config",
+            "size": 4597,
+            "hash": "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/default_radar_categories_server.json"
+        },
+        {
+            "path": "config/xaero/minimap/profiles/default.cfg",
+            "type": "config",
+            "size": 3922,
+            "hash": "f9ce478a7263a91a9234e4b6414fce1e4b1a62968350d0557d594d1ff78bab74",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/profiles/default.cfg"
+        },
+        {
+            "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+            "type": "config",
+            "size": 5531,
+            "hash": "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+        },
+        {
+            "path": "config/xaero/minimap/server_profiles/default.cfg",
+            "type": "config",
+            "size": 75,
+            "hash": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/server_profiles/default.cfg"
+        },
+        {
+            "path": "config/xaero/world-map/client.cfg",
+            "type": "config",
+            "size": 521,
+            "hash": "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/world-map/client.cfg"
+        },
+        {
+            "path": "config/xaero/world-map/common.cfg",
+            "type": "config",
+            "size": 141,
+            "hash": "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/world-map/common.cfg"
+        },
+        {
+            "path": "config/xaero/world-map/profiles/default.cfg",
+            "type": "config",
+            "size": 1618,
+            "hash": "803066b08405fd552ece0cb0632c24efccb3e4f1095a34335bc122924c8e75f7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/world-map/profiles/default.cfg"
+        },
+        {
+            "path": "config/xaero/world-map/server_profiles/default.cfg",
+            "type": "config",
+            "size": 75,
+            "hash": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/world-map/server_profiles/default.cfg"
+        },
+        {
+            "path": "config/yacl.json5",
+            "type": "config",
+            "size": 250,
+            "hash": "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/yacl.json5"
+        },
+        {
+            "path": "config/zeta-common.toml",
+            "type": "config",
+            "size": 1882,
+            "hash": "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/zeta-common.toml"
+        },
+        {
+            "path": "config/zume.json5",
+            "type": "config",
+            "size": 2405,
+            "hash": "8e23412c587a2350337de184b152a297778b3760f8b40dc5c2aac29f4b7a8cd3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/zume.json5"
+        },
         {
             "path": "defaultconfigs/biolith/general.json",
             "type": "config",
