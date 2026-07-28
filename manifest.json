@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-28 16:01:59",
+    "created": "2026-07-28 17:43:31",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -241,7 +241,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "7b6c5711cc8feabc093b57317fced15e818d1a00ec34e37671c2e2f1a1ac4a21",
+            "hash": "ec11a4a659a1cc342384ebd182fb4d24ce8370e6dd101675cbbecbabbad694ea",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -383,6 +383,13 @@
             "size": 924,
             "hash": "4478eae9b70774b0568c09c758e63ebd37b1579c80ca88804498f7129c69f2f4",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/bits_n_bobs-server.toml"
+        },
+        {
+            "path": "config/blockrunner-client.toml",
+            "type": "config",
+            "size": 281,
+            "hash": "d3e30e4e8e052392d3a6b96d37631fb069f8b8055bcb66c14ad242717e335763",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/blockrunner-client.toml"
         },
         {
             "path": "config/blueprint-client.toml",
@@ -976,7 +983,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "208c07ccecdff659a4c198721872887b314305fdb6d1d79d4522380f72ccef97",
+            "hash": "23211489ad2f00f87831558bb658e0af8858bd035a1cac331340194e76e8ca4e",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1214,7 +1221,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "1fc9e33f9bae20e8c069341d01132907e7e34eaaf959099f581f55488118ca44",
+            "hash": "3808af93562797d1fb5e621d8f67798e4453b38089b076866fd3718d1cc42b78",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -2966,6 +2973,13 @@
             "size": 2017417,
             "hash": "5c41d55ad9306f8d0a8c1b0174d71a3e333026b08adb6883653cd91ab6c5bea0",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/lambdynamiclights-4.8.8+1.21.1.jar"
+        },
+        {
+            "path": "mods/legacy-freecam-neoforge-1.1.2+mc1.21.jar",
+            "type": "mod",
+            "size": 1147653,
+            "hash": "6ad9cffff0ea7caefbe167ae5372500ee437cc0b2dadc9162eec21c75393ccf9",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/legacy-freecam-neoforge-1.1.2+mc1.21.jar"
         },
         {
             "path": "mods/letsdo-bakery-neoforge-2.1.6.jar",
