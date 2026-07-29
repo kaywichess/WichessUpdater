@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-29 18:03:10",
+    "created": "2026-07-29 18:04:19",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -3526,6 +3526,13 @@
             "size": 4902837,
             "hash": "fb0dc1f4bb36f471fafc86fee12b963f036ddf8d4622653509d884bbed96b1e5",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/voicechat-neoforge-1.21.1-2.6.18.jar"
+        },
+        {
+            "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
+            "type": "mod",
+            "size": 432269,
+            "hash": "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/watut-neoforge-1.21.0-1.2.7.jar"
         },
         {
             "path": "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
