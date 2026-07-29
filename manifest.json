@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-29 19:59:31",
+    "created": "2026-07-29 21:15:52",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -262,7 +262,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "9ce740b53c61ca0e66e809dcd9a44abf467a00e62872c14e02d8818cd065530c",
+            "hash": "95534c4c5b18931dd819e33e9d8939f0dd56bd202b15671bef31e901aa4bb85c",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -616,6 +616,20 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create-server.toml"
         },
         {
+            "path": "config/create-stuff-additions.toml",
+            "type": "config",
+            "size": 870,
+            "hash": "e4a3988ff64923d8e08952951186cc6a67a5a04427766f5322c8e0a67077c5e5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create-stuff-additions.toml"
+        },
+        {
+            "path": "config/create_aquatic_ambitions-server.toml",
+            "type": "config",
+            "size": 1249,
+            "hash": "31f4097d421f2cd97a4101829750a52c37a45d695d6994f70d31d9cb66aa13a9",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_aquatic_ambitions-server.toml"
+        },
+        {
             "path": "config/create_cardboarded_conveynience-common.toml",
             "type": "config",
             "size": 140,
@@ -714,6 +728,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_optical-server.toml"
         },
         {
+            "path": "config/createaddition-common.toml",
+            "type": "config",
+            "size": 6346,
+            "hash": "a3e4db70c22ed9354b54e21de5c1875cddb43432ba4e4f83076a8751a75b7714",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createaddition-common.toml"
+        },
+        {
             "path": "config/createbigcannons-client.toml",
             "type": "config",
             "size": 3579,
@@ -726,6 +747,20 @@
             "size": 11394,
             "hash": "e2144a02f5959e6b2ab662d04963e1d2b75fe6ee872881fcf381e8f790f237a0",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createbigcannons-server.toml"
+        },
+        {
+            "path": "config/createcafe-common.toml",
+            "type": "config",
+            "size": 102,
+            "hash": "cee49775472cf9f1097cd3776abab89f3201fb0e896d8713f4208581cdbf8ebd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createcafe-common.toml"
+        },
+        {
+            "path": "config/createcafe-server.toml",
+            "type": "config",
+            "size": 133,
+            "hash": "b1237ef6294302e71424fd99764f4b2fca53aca794c383881236f0081c23a699",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createcafe-server.toml"
         },
         {
             "path": "config/createdieselgenerators-client.toml",
@@ -1018,7 +1053,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "f0f1c14e4ae0692c59f0238ade9f6558a12d4960d02359ebbd61a17e8772eaa7",
+            "hash": "89e25515456a66389739d3868b4dee4b6805c31af6a4f1a626de468a98f7f669",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1246,6 +1281,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ichunutil/themes/whitelight.json"
         },
         {
+            "path": "config/idas-neoforge-1_21.toml",
+            "type": "config",
+            "size": 689,
+            "hash": "d17cd4af4a3ad34d26f95d77414c40e7bfed0414d17565bf5441789e1abe6aad",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/idas-neoforge-1_21.toml"
+        },
+        {
             "path": "config/immediatelyfast.json",
             "type": "config",
             "size": 1114,
@@ -1270,7 +1312,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "72a676cfb5fcb032a7c5685ef82ec4fae85b52f7e7cd6c43b26d0363f6282ccb",
+            "hash": "026b893e6ee056efdbad1e05e278ad39ae5315091615434fef15fe777bec8b3c",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -1580,6 +1622,13 @@
             "size": 546,
             "hash": "47d0dd977322772c1a3405299c25fd1d9c0963655e44b2e08ab330265c746166",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/progresspeek.toml"
+        },
+        {
+            "path": "config/protection-pixel.toml",
+            "type": "config",
+            "size": 555,
+            "hash": "c6a56527a7ec3d3707b975ee25a6b1b8e5477d67ca2042560264213e98f42f81",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/protection-pixel.toml"
         },
         {
             "path": "config/quark-common.toml",
@@ -3351,6 +3400,13 @@
             "size": 1060134,
             "hash": "d6b6443b8c715dffcf0c8d7434e4359a6ed31ac4aaf7ff731ec254932903dd07",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/progresspeek-1.0.1+1.21.1-neoforge.jar"
+        },
+        {
+            "path": "mods/protection_pixel-2.2.1-neoforge-1.21.1.jar",
+            "type": "mod",
+            "size": 2608196,
+            "hash": "a496e6263a0c2cd4341f05a1a71085e467cfe85b453a6aef1c38f614b61129f4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/protection_pixel-2.2.1-neoforge-1.21.1.jar"
         },
         {
             "path": "mods/quick-pack-neoforge-1.3.2+1.21.8.jar",
