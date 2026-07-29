@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-29 19:58:41",
+    "created": "2026-07-29 19:59:31",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -3094,11 +3094,25 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/iChunUtil-1.21-NeoForge-1.0.3.jar"
         },
         {
+            "path": "mods/idas-1.13.7+1.21.1-neoforge.jar",
+            "type": "mod",
+            "size": 14485475,
+            "hash": "7f5031dd90ae0b32d7fe5c6c47c877cac1eb95a178bc78d196cb24c17ce82522",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/idas-1.13.7+1.21.1-neoforge.jar"
+        },
+        {
             "path": "mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
             "type": "mod",
             "size": 5521192,
             "hash": "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar"
+        },
+        {
+            "path": "mods/integrated_api-1.7.3+1.21.1-neoforge.jar",
+            "type": "mod",
+            "size": 478796,
+            "hash": "81bffee0e09dce9160376c36c3f38b26af4470393ecf7b2d6fdc3fa5c40593ec",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/integrated_api-1.7.3+1.21.1-neoforge.jar"
         },
         {
             "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
