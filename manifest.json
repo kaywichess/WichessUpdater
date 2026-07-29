@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-29 17:58:45",
+    "created": "2026-07-29 18:00:59",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -2329,6 +2329,13 @@
             "size": 60941,
             "hash": "2e74076c67a78f16d696ec9ad1e3138d6ed1418544b297dbe3f4ad9cd791d059",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/BetterThirdPerson-neoforge-1.9.0.jar"
+        },
+        {
+            "path": "mods/BlockRunner-v21.1.2-1.21.1-NeoForge.jar",
+            "type": "mod",
+            "size": 107012,
+            "hash": "ff337de308c0ac97f15cb774c08e28a009288eca6c5aaa25c898d0f698bae75c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/BlockRunner-v21.1.2-1.21.1-NeoForge.jar"
         },
         {
             "path": "mods/CarryOnAeroCompat-1.21.1-1.1.1.jar",
