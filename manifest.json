@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-28 18:29:01",
+    "created": "2026-07-29 17:58:45",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -147,6 +147,27 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/accurateblockplacement.properties"
         },
         {
+            "path": "config/advancednetherite-client.toml",
+            "type": "config",
+            "size": 436,
+            "hash": "f8c07c75bb06a3cca5c10a7bca924e96c2aa273b679f9cc1fa961ac50001977b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/advancednetherite-client.toml"
+        },
+        {
+            "path": "config/advancednetherite-common.toml",
+            "type": "config",
+            "size": 506,
+            "hash": "7454eed18647f22e37799e631a24cf2da1b1bde5d88d957f34a9be09ab3b8c1a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/advancednetherite-common.toml"
+        },
+        {
+            "path": "config/advancednetherite-server.toml",
+            "type": "config",
+            "size": 3338,
+            "hash": "69ad5463a614a5e6a400f938515ac04ada47b52c6795b82ca7f8aefd3765e44f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/advancednetherite-server.toml"
+        },
+        {
             "path": "config/aeronautics-server.toml",
             "type": "config",
             "size": 2958,
@@ -241,7 +262,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "6f32d3a1ec717f7e6b3a12dd950291b71502b9808d40d0271da3753c5449a237",
+            "hash": "0bfd151624c7ed5a535c6e3bdc8d242444e6db7ace9129859ecb5dced4921fe9",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -371,6 +392,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterstrongholds/neoforge-1_21/rareblocks.json"
         },
         {
+            "path": "config/betterthirdperson-common.toml",
+            "type": "config",
+            "size": 748,
+            "hash": "fbad589cfb48a9d62c92d01c6ec7a3c77b5c6311e2735bb6080b53c11440133e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/betterthirdperson-common.toml"
+        },
+        {
             "path": "config/bits_n_bobs-common.toml",
             "type": "config",
             "size": 1043,
@@ -404,6 +432,13 @@
             "size": 516,
             "hash": "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/blueprint-common.toml"
+        },
+        {
+            "path": "config/bountiful/bountiful.json",
+            "type": "config",
+            "size": 869,
+            "hash": "eeead79d2c51bca73a1174aeadd2cef9c12feea8ae8083121c15e47b0563ebc0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/bountiful/bountiful.json"
         },
         {
             "path": "config/brick_and_mortar.json",
@@ -983,7 +1018,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "23211489ad2f00f87831558bb658e0af8858bd035a1cac331340194e76e8ca4e",
+            "hash": "cc381ad1f730a97dbb4582bebb48b19a0735fa417e4f4fbb247ba4921ae69f7e",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1069,6 +1104,13 @@
             "size": 1550,
             "hash": "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fml.toml"
+        },
+        {
+            "path": "config/freecam.json5",
+            "type": "config",
+            "size": 737,
+            "hash": "442d3c73c8d0c64a2445ef0c31b618db0034a2f452bf15751ec337287f34ef0c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/freecam.json5"
         },
         {
             "path": "config/friendsandfoes.json",
@@ -1211,6 +1253,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/immediatelyfast.json"
         },
         {
+            "path": "config/immersive_melodies.json",
+            "type": "config",
+            "size": 1161,
+            "hash": "9b02a7cca7c914d6dcae35317979be78b2b644cfadc6dd6a257d421065d67c07",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/immersive_melodies.json"
+        },
+        {
             "path": "config/iris-excluded.json",
             "type": "config",
             "size": 31,
@@ -1221,7 +1270,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "f478fef3f52c064475a8c50d4c03b82a0ddbe5da47dd7331e5f4141fbd69dbf5",
+            "hash": "ea23f46f92480cd9eb5344e91eb960d6036979990003301ba98a74f77d8268c8",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -1230,6 +1279,13 @@
             "size": 720,
             "hash": "b4bef9c640b01cebf7d8c1883b612d4b56b624df7438e2d718773a8321030de0",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/irisflw-client.toml"
+        },
+        {
+            "path": "config/itemborders.toml",
+            "type": "config",
+            "size": 4709,
+            "hash": "530b8b818fb7efbe0ed8fbc8dbaaa0861c75853d99368bf07ed7a490a6cbf1d0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/itemborders.toml"
         },
         {
             "path": "config/ixeris.toml",
@@ -1344,6 +1400,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/map_atlases-common.toml"
         },
         {
+            "path": "config/mca.json",
+            "type": "config",
+            "size": 9576,
+            "hash": "22bbe5512f2d9f167e25e8e93594dcfd8af98f184604cee67dfae0b99f9b3b08",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/mca.json"
+        },
+        {
             "path": "config/meadow-common.toml",
             "type": "config",
             "size": 61,
@@ -1374,8 +1437,8 @@
         {
             "path": "config/modernfix-mixins.properties",
             "type": "config",
-            "size": 5710,
-            "hash": "21a7a76ca64a4d01bb8d921e9c8e6a0f9bba7a4be025c82335654a9dc421cde6",
+            "size": 5539,
+            "hash": "d49d3035cca50c0d294a91ca9d446546b311c8fa4e7d3e538240aa65b1584e56",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/modernfix-mixins.properties"
         },
         {
@@ -1967,6 +2030,34 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/voicechat-server.properties"
         },
         {
+            "path": "config/watut-client.toml",
+            "type": "config",
+            "size": 3444,
+            "hash": "cc750724e261c94be36d2cea4a5e4f9466192e9ff7cf01546cb1efcea918282b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/watut-client.toml"
+        },
+        {
+            "path": "config/watut-common.toml",
+            "type": "config",
+            "size": 169,
+            "hash": "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/watut-common.toml"
+        },
+        {
+            "path": "config/watut-item-arm-adjustments.json",
+            "type": "config",
+            "size": 3367,
+            "hash": "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/watut-item-arm-adjustments.json"
+        },
+        {
+            "path": "config/watut-server.toml",
+            "type": "config",
+            "size": 2945,
+            "hash": "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/watut-server.toml"
+        },
+        {
             "path": "config/xaero/lib/client.cfg",
             "type": "config",
             "size": 26,
@@ -2233,11 +2324,11 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/BadOptimizations-2.4.1-1.21.1.jar"
         },
         {
-            "path": "mods/BlockRunner-v21.1.2-1.21.1-NeoForge.jar",
+            "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
             "type": "mod",
-            "size": 107012,
-            "hash": "ff337de308c0ac97f15cb774c08e28a009288eca6c5aaa25c898d0f698bae75c",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/BlockRunner-v21.1.2-1.21.1-NeoForge.jar"
+            "size": 60941,
+            "hash": "2e74076c67a78f16d696ec9ad1e3138d6ed1418544b297dbe3f4ad9cd791d059",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/BetterThirdPerson-neoforge-1.9.0.jar"
         },
         {
             "path": "mods/CarryOnAeroCompat-1.21.1-1.1.1.jar",
@@ -2471,6 +2562,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/Zeta-1.1-40.jar"
         },
         {
+            "path": "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
+            "type": "mod",
+            "size": 520611,
+            "hash": "ae0ec0a574d4ebd0644b37913c65a6f92ea20a0fe7e3d3799fd872cfe01a278a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/advancednetherite-neoforge-2.3.1-1.21.1.jar"
+        },
+        {
             "path": "mods/aeroencasedpipe-1.0.7.jar",
             "type": "mod",
             "size": 56483,
@@ -2567,6 +2665,13 @@
             "size": 328813,
             "hash": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
+        },
+        {
+            "path": "mods/bountiful-neoforge-8.0.0-beta.2.jar",
+            "type": "mod",
+            "size": 721006,
+            "hash": "dca5e0af724e3076b3d950b7ec88cf63c509435cf41371a6e1c7c306cb6a7e51",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/bountiful-neoforge-8.0.0-beta.2.jar"
         },
         {
             "path": "mods/brick_and_mortar-neoforge-1.21.1-1.1.0.jar",
@@ -2947,11 +3052,25 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/iChunUtil-1.21-NeoForge-1.0.3.jar"
         },
         {
+            "path": "mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+            "type": "mod",
+            "size": 5521192,
+            "hash": "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar"
+        },
+        {
             "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
             "type": "mod",
             "size": 2540723,
             "hash": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+        },
+        {
+            "path": "mods/kambrik-neoforge-8.0.0-beta.2.jar",
+            "type": "mod",
+            "size": 436428,
+            "hash": "a9b14170f2eeb323261c14bf40137ae78920ce2d61d52c85cdccc45bd9f37c2c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/kambrik-neoforge-8.0.0-beta.2.jar"
         },
         {
             "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
@@ -3400,6 +3519,13 @@
             "size": 4902837,
             "hash": "fb0dc1f4bb36f471fafc86fee12b963f036ddf8d4622653509d884bbed96b1e5",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/voicechat-neoforge-1.21.1-2.6.18.jar"
+        },
+        {
+            "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
+            "type": "mod",
+            "size": 432269,
+            "hash": "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/watut-neoforge-1.21.0-1.2.7.jar"
         },
         {
             "path": "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
