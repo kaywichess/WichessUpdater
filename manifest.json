@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-29 21:15:52",
+    "created": "2026-07-30 13:26:15",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -262,7 +262,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "95534c4c5b18931dd819e33e9d8939f0dd56bd202b15671bef31e901aa4bb85c",
+            "hash": "699cb7efb2b6ea30587bb6cd7a1c9e64fedb627ad15249aebed5ca045a327278",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -1053,7 +1053,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "89e25515456a66389739d3868b4dee4b6805c31af6a4f1a626de468a98f7f669",
+            "hash": "c75048bbd188cbcff8de410930a802a4d3186d7f336d2f9ba34d45650cdf4a3c",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1312,7 +1312,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "026b893e6ee056efdbad1e05e278ad39ae5315091615434fef15fe777bec8b3c",
+            "hash": "65a92ab7b5735b9480cc2cbd8e623b95b7e2787d10ff8ab6d8afbc4525892efe",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -1864,8 +1864,8 @@
         {
             "path": "config/sodium-options.json",
             "type": "config",
-            "size": 761,
-            "hash": "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1",
+            "size": 760,
+            "hash": "4056d1df6ceaf99ce534f5f61bf978bc2f6d62381deed617cf361e180e1f1ca4",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/sodium-options.json"
         },
         {
@@ -3031,6 +3031,20 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/ends_delight-2.6+neoforge.1.21.1.jar"
         },
         {
+            "path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+            "type": "mod",
+            "size": 567827,
+            "hash": "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/entity_model_features-3.2.4-1.21-neoforge.jar"
+        },
+        {
+            "path": "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+            "type": "mod",
+            "size": 752334,
+            "hash": "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/entity_texture_features_1.21-neoforge-7.1.jar"
+        },
+        {
             "path": "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
             "type": "mod",
             "size": 1582824,
@@ -3689,11 +3703,11 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/zume-1.2.2.jar"
         },
         {
-            "path": "resourcepacks/NewGlowingOres-§6[Border]§r.zip",
+            "path": "resourcepacks/Icon Xaero's 1.22.zip",
             "type": "resourcepack",
-            "size": 344937,
-            "hash": "623ef37ea6821f3d02e68631fcca20ac18fe95647af580a279604a9314203f0b",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/resourcepacks/NewGlowingOres-§6[Border]§r.zip"
+            "size": 18866675,
+            "hash": "8f55e1bd5943f30e7ca895d1f4a01f3b417ecd4aeefec02e642c6d824bdbb65e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/resourcepacks/Icon Xaero's 1.22.zip"
         },
         {
             "path": "resourcepacks/Stay_True_1.21.zip",
