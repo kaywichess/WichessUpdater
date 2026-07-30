@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-30 13:26:15",
+    "created": "2026-07-30 13:51:05",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -3029,20 +3029,6 @@
             "size": 258138,
             "hash": "65277056eb9ee9e1025633b83cb1b2568ec846dacd16507a35698244f4196881",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/ends_delight-2.6+neoforge.1.21.1.jar"
-        },
-        {
-            "path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
-            "type": "mod",
-            "size": 567827,
-            "hash": "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/entity_model_features-3.2.4-1.21-neoforge.jar"
-        },
-        {
-            "path": "mods/entity_texture_features_1.21-neoforge-7.1.jar",
-            "type": "mod",
-            "size": 752334,
-            "hash": "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/entity_texture_features_1.21-neoforge-7.1.jar"
         },
         {
             "path": "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
