@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-30 13:51:45",
+    "created": "2026-07-30 13:52:37",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -840,13 +840,6 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/dynamic_fps.json"
         },
         {
-            "path": "config/e4mc/e4mc.toml",
-            "type": "config",
-            "size": 1090,
-            "hash": "d60b1f882c39af9a7dfea64b34f314ccfbd2aa907d046b0c5707fa02f6e6586d",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/e4mc/e4mc.toml"
-        },
-        {
             "path": "config/easy_villagers-client.toml",
             "type": "config",
             "size": 715,
@@ -957,20 +950,6 @@
             "size": 690,
             "hash": "3518ceefb467631775957588db1f0ff6fc44c203a8d00c28e07f1813bbf06f1d",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ends_delight-common.toml"
-        },
-        {
-            "path": "config/entity_model_features.json",
-            "type": "config",
-            "size": 1207,
-            "hash": "c633e3370aa256a71ab45aec68683a2ec4b29b6c5c2dfd430f9788a854ccf920",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/entity_model_features.json"
-        },
-        {
-            "path": "config/entity_texture_features.json",
-            "type": "config",
-            "size": 1421,
-            "hash": "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/entity_texture_features.json"
         },
         {
             "path": "config/entityculling.json",
