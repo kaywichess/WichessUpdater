@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-08-01 16:04:32",
+    "created": "2026-08-01 19:44:05",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -283,7 +283,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "d1a261e87d2e708f78498fe20051f7b9ad2b982e0de5488f6bfb1e52138a6dea",
+            "hash": "668e8391176042cbc91e10cdea44f81c19d0035c7f7cedc7040ebc08c1f63b7c",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -472,7 +472,7 @@
             "path": "config/c2me.toml",
             "type": "config",
             "size": 9465,
-            "hash": "63219a804d78b749bce97ea0a97dec60f23b829dfe98665196634cb717b2fdf7",
+            "hash": "bbc09896d141b999e0c5a278450d9b0285ffe7879b666ccc14c1873a83f5f8b8",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/c2me.toml"
         },
         {
@@ -1067,7 +1067,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "d0d378dd362d99fcccdc33f6c36904632ce8648d6ba8bc44d1bbe0bdc4004fdf",
+            "hash": "b4c58e78ecd3814e32034bc090e32f2cbed8908062d2a1996ef827fbbd46644d",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1316,6 +1316,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/idas-neoforge-1_21.toml"
         },
         {
+            "path": "config/illagerinvasion-server.toml",
+            "type": "config",
+            "size": 1684,
+            "hash": "8a0b55eb9296f5897140db1adceecb037b7b06aff74cee1a5255e9c3013f942c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/illagerinvasion-server.toml"
+        },
+        {
             "path": "config/immediatelyfast.json",
             "type": "config",
             "size": 1114,
@@ -1340,7 +1347,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "4ba1dd56e9ff0c85c5ce090f70ec2135f93185240bfadf30d6a1accc625e1e65",
+            "hash": "0ad50bf19ed761a84d411f1c441fc8ee5ad11b6e371964285536585df80d751a",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -2952,6 +2959,13 @@
             "size": 221764,
             "hash": "d6525b9ab9914a194ca5aa00e6605f5977d8ac28722cdccce018da44f62bc5c5",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/create_pattern_schematics-2.0.10.jar"
+        },
+        {
+            "path": "mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+            "type": "mod",
+            "size": 235239,
+            "hash": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
         },
         {
             "path": "mods/createaddition-1.6.0.jar",
