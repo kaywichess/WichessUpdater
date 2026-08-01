@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-08-01 15:40:31",
+    "created": "2026-08-01 15:50:59",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -252,6 +252,27 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/armorstatues-client.toml"
         },
         {
+            "path": "config/artifacts/client.toml",
+            "type": "config",
+            "size": 819,
+            "hash": "3921700655db2af439702410ce0f4771955fa426b8b184ccb569721063da2a70",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/artifacts/client.toml"
+        },
+        {
+            "path": "config/artifacts/general.toml",
+            "type": "config",
+            "size": 2326,
+            "hash": "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/artifacts/general.toml"
+        },
+        {
+            "path": "config/artifacts/items.toml",
+            "type": "config",
+            "size": 20051,
+            "hash": "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/artifacts/items.toml"
+        },
+        {
             "path": "config/asynclogger.toml",
             "type": "config",
             "size": 1020,
@@ -262,7 +283,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "1c6ee94e368975e8bcafab936a00cea965ce67742767df1c1b4b56edc05d7960",
+            "hash": "07e2f76c231675037058204d1e8e9ea6ca38b051d5352697be922585f6d02eeb",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -952,6 +973,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/enchancement.json"
         },
         {
+            "path": "config/enchdesc.json",
+            "type": "config",
+            "size": 2059,
+            "hash": "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/enchdesc.json"
+        },
+        {
             "path": "config/ends_delight-common.toml",
             "type": "config",
             "size": 690,
@@ -1039,7 +1067,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "73ced8a3c0e17b23dc23c5ea8f140b35c6839fbbe474db03f4c58eea7150e9aa",
+            "hash": "3fe3225c59dc1d1d5438d68690ef4b007e1ecaf8f825ba972d4e5b71cc09970a",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1090,6 +1118,20 @@
             "size": 125,
             "hash": "eae90793a2b7d3b5e632ffd83c0bd82864d0aa048745fcd02ac2169c0d7469d5",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fastpaintings-common.toml"
+        },
+        {
+            "path": "config/fdlib/fdlib_client.json",
+            "type": "config",
+            "size": 136,
+            "hash": "fee032c43c30c3a4cfaa26736c3c719a9baab0badaa6ed8670353670b4999074",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fdlib/fdlib_client.json"
+        },
+        {
+            "path": "config/fdlib/test.json",
+            "type": "config",
+            "size": 215,
+            "hash": "29c354279f36049c2cda368882d498dc20d8fc9193899e42824b75f406e33ade",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fdlib/test.json"
         },
         {
             "path": "config/ferritecore-mixin.toml",
@@ -1298,7 +1340,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "f4db4bb44a4cb177919ad8b529534e4986c7fad594a8db381227d410c2d4a159",
+            "hash": "1a70bbdf739d4aba779ceb139fb6faab82ce4ed115f51d949b4b01f45f709d18",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -1629,6 +1671,13 @@
             "size": 41,
             "hash": "18bb4bac8bf47499a99702cc1edcc2f70903524e365290a200b4c0cdadc9c6b2",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/quick-pack.json"
+        },
+        {
+            "path": "config/raidsenhanced/raidsenhanced.json",
+            "type": "config",
+            "size": 605,
+            "hash": "06b5173418f8eb69cedce846190d8d1158d58b38aeb516082bf70b2a91f51d6e",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/raidsenhanced/raidsenhanced.json"
         },
         {
             "path": "config/railways-client.toml",
@@ -2660,6 +2709,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/architectury-13.0.8-neoforge.jar"
         },
         {
+            "path": "mods/artifacts-neoforge-13.2.1.jar",
+            "type": "mod",
+            "size": 1030252,
+            "hash": "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/artifacts-neoforge-13.2.1.jar"
+        },
+        {
             "path": "mods/asynclogger-1.1.4+1.21.1-neoforge.jar",
             "type": "mod",
             "size": 570249,
@@ -3015,6 +3071,13 @@
             "size": 215570,
             "hash": "de9a7d6e3cf6786f23767e6aaf796f1e4b6f6ae6afac3f65add70ddf1cf14e60",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/emixx-neoforge-2.2.0.jar"
+        },
+        {
+            "path": "mods/enchdesc-neoforge-1.21.1-21.1.10.jar",
+            "type": "mod",
+            "size": 82629,
+            "hash": "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
         },
         {
             "path": "mods/ends_delight-2.6+neoforge.1.21.1.jar",
