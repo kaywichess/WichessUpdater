@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-08-01 15:50:59",
+    "created": "2026-08-01 16:04:32",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -283,7 +283,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "07e2f76c231675037058204d1e8e9ea6ca38b051d5352697be922585f6d02eeb",
+            "hash": "d1a261e87d2e708f78498fe20051f7b9ad2b982e0de5488f6bfb1e52138a6dea",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -1067,7 +1067,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "3fe3225c59dc1d1d5438d68690ef4b007e1ecaf8f825ba972d4e5b71cc09970a",
+            "hash": "d0d378dd362d99fcccdc33f6c36904632ce8648d6ba8bc44d1bbe0bdc4004fdf",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1340,7 +1340,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "1a70bbdf739d4aba779ceb139fb6faab82ce4ed115f51d949b4b01f45f709d18",
+            "hash": "4ba1dd56e9ff0c85c5ce090f70ec2135f93185240bfadf30d6a1accc625e1e65",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -2200,15 +2200,15 @@
         {
             "path": "config/xaero/minimap/profiles/default.cfg",
             "type": "config",
-            "size": 3922,
-            "hash": "f9ce478a7263a91a9234e4b6414fce1e4b1a62968350d0557d594d1ff78bab74",
+            "size": 3923,
+            "hash": "911c966983e11b6021b59bc28b58977d36d52a2dbe1bf2e2df2bd1c7b1e24d75",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/profiles/default.cfg"
         },
         {
             "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
             "type": "config",
             "size": 5531,
-            "hash": "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca",
+            "hash": "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
         },
         {
@@ -2525,6 +2525,13 @@
             "size": 16669,
             "hash": "120f5971e1998337b81205934b55e29c70f4891c6254df616e4391ed94a511cf",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/GPUTape-1.20.6-1.21x-1.0.3.jar"
+        },
+        {
+            "path": "mods/IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar",
+            "type": "mod",
+            "size": 2361701,
+            "hash": "5adfdd0df0c5dbe81e4458da50442b58863f9db9f22abc182f81e487eef0e6db",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
         },
         {
             "path": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
