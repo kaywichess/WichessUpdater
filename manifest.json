@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-07-30 13:52:37",
+    "created": "2026-08-01 15:40:31",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -262,7 +262,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "699cb7efb2b6ea30587bb6cd7a1c9e64fedb627ad15249aebed5ca045a327278",
+            "hash": "1c6ee94e368975e8bcafab936a00cea965ce67742767df1c1b4b56edc05d7960",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -451,7 +451,7 @@
             "path": "config/c2me.toml",
             "type": "config",
             "size": 9465,
-            "hash": "9bd7129c1d85c5594a74b86a06af76d49ab33f6106b1c093c3d09d6866457fda",
+            "hash": "63219a804d78b749bce97ea0a97dec60f23b829dfe98665196634cb717b2fdf7",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/c2me.toml"
         },
         {
@@ -548,8 +548,8 @@
         {
             "path": "config/chunky/tasks/minecraft/overworld.properties",
             "type": "config",
-            "size": 160,
-            "hash": "80b670b32c8016fa3976cf3372d1338f7175e67e83506e7df37fb5c413d3d2ff",
+            "size": 162,
+            "hash": "33bb7a7e814ec742d38b8614c466f4c0540b54acf93e94b9879dc1393a88130d",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/chunky/tasks/minecraft/overworld.properties"
         },
         {
@@ -782,6 +782,13 @@
             "size": 1540,
             "hash": "3ff7bfbdf8353dffba0809215ab4812f63443843128b3d40ae6b377aeda94855",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createdieselgenerators-server.toml"
+        },
+        {
+            "path": "config/createnuclear-common.toml",
+            "type": "config",
+            "size": 1071,
+            "hash": "9dd04f151c24615848ebde4f54900f45263c3004b1fb6065adc245ece13b4c14",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/createnuclear-common.toml"
         },
         {
             "path": "config/crittersandcompanions-common.json5",
@@ -1032,7 +1039,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "c75048bbd188cbcff8de410930a802a4d3186d7f336d2f9ba34d45650cdf4a3c",
+            "hash": "73ced8a3c0e17b23dc23c5ea8f140b35c6839fbbe474db03f4c58eea7150e9aa",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1291,7 +1298,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "65a92ab7b5735b9480cc2cbd8e623b95b7e2787d10ff8ab6d8afbc4525892efe",
+            "hash": "f4db4bb44a4cb177919ad8b529534e4986c7fad594a8db381227d410c2d4a159",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -1794,8 +1801,8 @@
         {
             "path": "config/smartblockplacement.properties",
             "type": "config",
-            "size": 76,
-            "hash": "aca6b0db2f1bbb64c6f98efeecf459a4497242cdcf53a4b06b673a5431df46e2",
+            "size": 75,
+            "hash": "31af7c87a83472d6857b9773c6cfc67f137b61425ef8c38c2817fa34577702a5",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/smartblockplacement.properties"
         },
         {
@@ -2919,6 +2926,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/createframed-1.21.1-1.7.3.jar"
         },
         {
+            "path": "mods/createnuclear-1.3.2-beta.3-neoforge.jar",
+            "type": "mod",
+            "size": 1842160,
+            "hash": "0d33c608c756ef5e293f1734403050d64c9651332a311e7aaf01370f40d9b1e3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/createnuclear-1.3.2-beta.3-neoforge.jar"
+        },
+        {
             "path": "mods/createprism-1.2.2.jar",
             "type": "mod",
             "size": 1287223,
@@ -3038,6 +3052,13 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/fastpaintings-1.21-1.3.0-neoforge.jar"
         },
         {
+            "path": "mods/fdlib-1.0.8-1.21.1.jar",
+            "type": "mod",
+            "size": 973073,
+            "hash": "76f24094117df1a8c090a60d4d0f234daceda9defb8c393425a330f52f9e0ce3",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/fdlib-1.0.8-1.21.1.jar"
+        },
+        {
             "path": "mods/ferritecore-7.0.3-neoforge.jar",
             "type": "mod",
             "size": 121559,
@@ -3127,6 +3148,13 @@
             "size": 14485475,
             "hash": "7f5031dd90ae0b32d7fe5c6c47c877cac1eb95a178bc78d196cb24c17ce82522",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/idas-1.13.7+1.21.1-neoforge.jar"
+        },
+        {
+            "path": "mods/illagerblabber-1.21.x-NeoForge-1.0.1.jar",
+            "type": "mod",
+            "size": 6411694,
+            "hash": "714d51bb819d344601308aee463266c60257085a4d91187a40522dfe4722ca1d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/illagerblabber-1.21.x-NeoForge-1.0.1.jar"
         },
         {
             "path": "mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
@@ -3393,6 +3421,13 @@
             "size": 11507,
             "hash": "37ed8231c00231ef0a0d6e6737bf9e2be0c11be33a944f1fb36868149413dc13",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/quick-pack-neoforge-1.3.2+1.21.8.jar"
+        },
+        {
+            "path": "mods/raidsenhanced-1.0.2-1.21.1.jar",
+            "type": "mod",
+            "size": 1042533,
+            "hash": "12311ddd5b66ee45bb64239dd6858f7e1554eb1c474515bfe483d498b5c13bcd",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/raidsenhanced-1.0.2-1.21.1.jar"
         },
         {
             "path": "mods/railways-0.2.1+neoforge-mc1.21.1.jar",
