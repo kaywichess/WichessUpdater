@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-08-01 19:44:05",
+    "created": "2026-08-03 12:10:26",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -283,7 +283,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "668e8391176042cbc91e10cdea44f81c19d0035c7f7cedc7040ebc08c1f63b7c",
+            "hash": "8a9aec47fda365618a1b35e3831d2b1e247c728bceb731bef93b85d221a09cfb",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -292,6 +292,370 @@
             "size": 1525,
             "hash": "95deb24f71c7a164d25a3ba9bf5228e3ac24b53d9984ceae9e3aa66961b2c999",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles.json"
+        },
+        {
+            "path": "config/attributefix/aileron/cloudskipper_drag.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/aileron/cloudskipper_drag.json"
+        },
+        {
+            "path": "config/attributefix/aileron/smokestack_capacity.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/aileron/smokestack_capacity.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.attack_burning_duration.json",
+            "type": "config",
+            "size": 381,
+            "hash": "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.attack_burning_duration.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.drinking_speed.json",
+            "type": "config",
+            "size": 417,
+            "hash": "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.drinking_speed.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.eating_speed.json",
+            "type": "config",
+            "size": 417,
+            "hash": "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.eating_speed.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.flatulence.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.flatulence.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.invincibility_ticks.json",
+            "type": "config",
+            "size": 385,
+            "hash": "f2b86540287515290388f49a96e00e5e9ae90abe7332b9beeb44870d0e30c206",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.invincibility_ticks.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.mount_speed.json",
+            "type": "config",
+            "size": 385,
+            "hash": "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.mount_speed.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.movement_speed_on_snow.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.movement_speed_on_snow.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.slip_resistance.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.slip_resistance.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.sprinting_speed.json",
+            "type": "config",
+            "size": 385,
+            "hash": "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.sprinting_speed.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/generic.sprinting_step_height.json",
+            "type": "config",
+            "size": 381,
+            "hash": "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/generic.sprinting_step_height.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/player.entity_experience.json",
+            "type": "config",
+            "size": 381,
+            "hash": "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/player.entity_experience.json"
+        },
+        {
+            "path": "config/attributefix/artifacts/player.villager_reputation.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/artifacts/player.villager_reputation.json"
+        },
+        {
+            "path": "config/attributefix/lodestone/magic_damage.json",
+            "type": "config",
+            "size": 385,
+            "hash": "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/lodestone/magic_damage.json"
+        },
+        {
+            "path": "config/attributefix/lodestone/magic_proficiency.json",
+            "type": "config",
+            "size": 385,
+            "hash": "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/lodestone/magic_proficiency.json"
+        },
+        {
+            "path": "config/attributefix/lodestone/magic_resistance.json",
+            "type": "config",
+            "size": 385,
+            "hash": "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/lodestone/magic_resistance.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.armor.json",
+            "type": "config",
+            "size": 389,
+            "hash": "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.armor.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.armor_toughness.json",
+            "type": "config",
+            "size": 389,
+            "hash": "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.armor_toughness.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.attack_damage.json",
+            "type": "config",
+            "size": 389,
+            "hash": "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.attack_damage.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.attack_knockback.json",
+            "type": "config",
+            "size": 389,
+            "hash": "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.attack_knockback.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.attack_speed.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.attack_speed.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.burning_time.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.burning_time.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.explosion_knockback_resistance.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.explosion_knockback_resistance.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.fall_damage_multiplier.json",
+            "type": "config",
+            "size": 383,
+            "hash": "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.fall_damage_multiplier.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.flying_speed.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.flying_speed.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.follow_range.json",
+            "type": "config",
+            "size": 385,
+            "hash": "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.follow_range.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.gravity.json",
+            "type": "config",
+            "size": 381,
+            "hash": "84207d0866413a367d92222bd193912a418615f5eb9da342057bafec30173a79",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.gravity.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.jump_strength.json",
+            "type": "config",
+            "size": 381,
+            "hash": "220b18479d9b6497fc95e3b2ffcca5014d93eca33153fab8f343151c9a553bde",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.jump_strength.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.knockback_resistance.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.knockback_resistance.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.luck.json",
+            "type": "config",
+            "size": 393,
+            "hash": "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.luck.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.max_absorption.json",
+            "type": "config",
+            "size": 385,
+            "hash": "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.max_absorption.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.max_health.json",
+            "type": "config",
+            "size": 389,
+            "hash": "9d0ae1c8fda340e80aac17df9999ec1e9c7396a2327f63a40ea8006991201305",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.max_health.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.movement_efficiency.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.movement_efficiency.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.movement_speed.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.movement_speed.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.oxygen_bonus.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.oxygen_bonus.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.safe_fall_distance.json",
+            "type": "config",
+            "size": 393,
+            "hash": "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.safe_fall_distance.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.scale.json",
+            "type": "config",
+            "size": 387,
+            "hash": "0e28210686e7f216d46ba0fee2508c263c7c39e26fb6d8380404789d3185e73a",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.scale.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.step_height.json",
+            "type": "config",
+            "size": 381,
+            "hash": "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.step_height.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/generic.water_movement_efficiency.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/generic.water_movement_efficiency.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/player.block_break_speed.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/player.block_break_speed.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/player.block_interaction_range.json",
+            "type": "config",
+            "size": 381,
+            "hash": "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/player.block_interaction_range.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/player.entity_interaction_range.json",
+            "type": "config",
+            "size": 381,
+            "hash": "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/player.entity_interaction_range.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/player.mining_efficiency.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/player.mining_efficiency.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/player.sneaking_speed.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/player.sneaking_speed.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/player.submerged_mining_speed.json",
+            "type": "config",
+            "size": 381,
+            "hash": "f874427dd6754eff702ef41fd35649493094ddd0c79e01623a2cc9ccfe8ce8d7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/player.submerged_mining_speed.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/player.sweeping_damage_ratio.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/player.sweeping_damage_ratio.json"
+        },
+        {
+            "path": "config/attributefix/minecraft/zombie.spawn_reinforcements.json",
+            "type": "config",
+            "size": 379,
+            "hash": "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/minecraft/zombie.spawn_reinforcements.json"
+        },
+        {
+            "path": "config/attributefix/neoforge/nametag_distance.json",
+            "type": "config",
+            "size": 381,
+            "hash": "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/neoforge/nametag_distance.json"
+        },
+        {
+            "path": "config/attributefix/neoforge/swim_speed.json",
+            "type": "config",
+            "size": 385,
+            "hash": "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/neoforge/swim_speed.json"
+        },
+        {
+            "path": "config/attributefix/sable/player.sub_level_punch_cooldown.json",
+            "type": "config",
+            "size": 381,
+            "hash": "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/sable/player.sub_level_punch_cooldown.json"
+        },
+        {
+            "path": "config/attributefix/sable/player.sub_level_punch_strength.json",
+            "type": "config",
+            "size": 389,
+            "hash": "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/attributefix/sable/player.sub_level_punch_strength.json"
         },
         {
             "path": "config/autofish.config",
@@ -569,8 +933,8 @@
         {
             "path": "config/chunky/tasks/minecraft/overworld.properties",
             "type": "config",
-            "size": 162,
-            "hash": "33bb7a7e814ec742d38b8614c466f4c0540b54acf93e94b9879dc1393a88130d",
+            "size": 159,
+            "hash": "a54bf8a835de1d5396045030a832be8748de506a4b585f12201ca568514f7eb8",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/chunky/tasks/minecraft/overworld.properties"
         },
         {
@@ -614,6 +978,20 @@
             "size": 122,
             "hash": "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/continuity.json"
+        },
+        {
+            "path": "config/corpse-server.toml",
+            "type": "config",
+            "size": 1092,
+            "hash": "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/corpse-server.toml"
+        },
+        {
+            "path": "config/corpsecurioscompat-common.toml",
+            "type": "config",
+            "size": 288,
+            "hash": "1af8c038af488d4d2f98afc93306cc97a3e7149100c184929980db642abbb89d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/corpsecurioscompat-common.toml"
         },
         {
             "path": "config/create-client.toml",
@@ -749,6 +1127,20 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_optical-server.toml"
         },
         {
+            "path": "config/create_radar-client.toml",
+            "type": "config",
+            "size": 1605,
+            "hash": "3a1e43f0088398c24c7a0c4f320bb791592d68dc560793d18d1f18ddeab598dc",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_radar-client.toml"
+        },
+        {
+            "path": "config/create_radar-server.toml",
+            "type": "config",
+            "size": 2391,
+            "hash": "08f7903eaeb4772392a2253149a97fc485bb2dded1891b29dae5c30cd1943834",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/create_radar-server.toml"
+        },
+        {
             "path": "config/createaddition-common.toml",
             "type": "config",
             "size": 6346,
@@ -845,6 +1237,13 @@
             "size": 244,
             "hash": "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/cutthrough-client.toml"
+        },
+        {
+            "path": "config/deeperdarker-common.toml",
+            "type": "config",
+            "size": 854,
+            "hash": "216cba34f4b7bb6f75ac414c98bea3ec02765adaa369f3d681c3b01ee62faaf5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/deeperdarker-common.toml"
         },
         {
             "path": "config/detailarmorbar.json",
@@ -1067,7 +1466,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "b4c58e78ecd3814e32034bc090e32f2cbed8908062d2a1996ef827fbbd46644d",
+            "hash": "e1bd5966086f61dd408e41a0995ae9d0e24349e19d71276626eafe42bb5f43d2",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1347,7 +1746,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "0ad50bf19ed761a84d411f1c441fc8ee5ad11b6e371964285536585df80d751a",
+            "hash": "2fe7d01e5c7568f26c0d4ef62e472d86169c30964e4d484d20c41a7b87586bab",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -1617,6 +2016,27 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/notenoughanimations.json"
         },
         {
+            "path": "config/ntgl-client.toml",
+            "type": "config",
+            "size": 3938,
+            "hash": "2cb3338fc8fbefcb960b8bf70303936501189d2fd585745bc5385ec31aff635c",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ntgl-client.toml"
+        },
+        {
+            "path": "config/ntgl-common.toml",
+            "type": "config",
+            "size": 6917,
+            "hash": "0d73dbafd6d17e2dd0df44d80fef1e65d7ac781b95ae0fcf5326ee9e8d589332",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ntgl-common.toml"
+        },
+        {
+            "path": "config/ntgl-server.toml",
+            "type": "config",
+            "size": 1619,
+            "hash": "a8395a9471b6b4499929b2837cd089fe07245c6e1b9f1a0da4ca7a6f3a9d38ee",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/ntgl-server.toml"
+        },
+        {
             "path": "config/nvidium-config.json",
             "type": "config",
             "size": 239,
@@ -1858,7 +2278,7 @@
             "path": "config/smartblockplacement.properties",
             "type": "config",
             "size": 75,
-            "hash": "31af7c87a83472d6857b9773c6cfc67f137b61425ef8c38c2817fa34577702a5",
+            "hash": "815ff8abf5be7f75f8ca57a7f70fd4ed0ccca7a1525602f5f9454c60c9879fd4",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/smartblockplacement.properties"
         },
         {
@@ -2109,8 +2529,8 @@
         {
             "path": "config/voicechat/voicechat-client.properties",
             "type": "config",
-            "size": 5065,
-            "hash": "6762207d241cf08b39b87c87312fb53ec0c925d5ae8a69d157429b398586f2be",
+            "size": 5067,
+            "hash": "abf4c7905ef029457332352793c289d60043d4db55cf91b24815d8c0886ed0f0",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/voicechat/voicechat-client.properties"
         },
         {
@@ -2207,8 +2627,8 @@
         {
             "path": "config/xaero/minimap/profiles/default.cfg",
             "type": "config",
-            "size": 3923,
-            "hash": "911c966983e11b6021b59bc28b58977d36d52a2dbe1bf2e2df2bd1c7b1e24d75",
+            "size": 3922,
+            "hash": "4ba32c15b3e3cbd9e65b87ac0a168140d0aca0b10775ba030106e179340a6852",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/xaero/minimap/profiles/default.cfg"
         },
         {
@@ -2737,6 +3157,20 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/asynclogger-1.1.4+1.21.1-neoforge.jar"
         },
         {
+            "path": "mods/attributefix-neoforge-1.21.1-21.1.3.jar",
+            "type": "mod",
+            "size": 19809,
+            "hash": "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/attributefix-neoforge-1.21.1-21.1.3.jar"
+        },
+        {
+            "path": "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+            "type": "mod",
+            "size": 74380,
+            "hash": "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/baguettelib-1.21.1-NeoForge-2.0.3.jar"
+        },
+        {
             "path": "mods/ballastmod-0.1.0.jar",
             "type": "mod",
             "size": 30230,
@@ -2870,6 +3304,20 @@
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/coroutil-neoforge-1.21.0-1.3.8.jar"
         },
         {
+            "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+            "type": "mod",
+            "size": 253694,
+            "hash": "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/corpse-neoforge-1.21.1-1.1.13.jar"
+        },
+        {
+            "path": "mods/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+            "type": "mod",
+            "size": 23659,
+            "hash": "4fc4702868b51cbb94717f2c209373f2823fb1383a45c77ffdbeb6df96440d51",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar"
+        },
+        {
             "path": "mods/create-1.21.1-6.0.10.jar",
             "type": "mod",
             "size": 19123767,
@@ -2903,6 +3351,13 @@
             "size": 401219,
             "hash": "39fd2aeb7bf334d8a68c2f64643cd3e9f577d7b492ab748da47ecedf4172f31e",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/create-extended-wrenches-1.21.1-2.0.2.jar"
+        },
+        {
+            "path": "mods/create-gunsmithing-1.21.1-1.4.9.jar",
+            "type": "mod",
+            "size": 1819221,
+            "hash": "d9e00c7e9cc5dec11455d42dd0f6d78418ce2213c4740ca8bec6b1e0e73adf1d",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/create-gunsmithing-1.21.1-1.4.9.jar"
         },
         {
             "path": "mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
@@ -2959,6 +3414,13 @@
             "size": 221764,
             "hash": "d6525b9ab9914a194ca5aa00e6605f5977d8ac28722cdccce018da44f62bc5c5",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/create_pattern_schematics-2.0.10.jar"
+        },
+        {
+            "path": "mods/create_radar-0.4.9.4-1.21.1.jar",
+            "type": "mod",
+            "size": 2990812,
+            "hash": "4554359fee389b1c255b4cef23ac41e978b2a371cec9e952185f4ec0a90ee930",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/create_radar-0.4.9.4-1.21.1.jar"
         },
         {
             "path": "mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
@@ -3029,6 +3491,13 @@
             "size": 410690,
             "hash": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/curios-neoforge-9.5.1+1.21.1.jar"
+        },
+        {
+            "path": "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar",
+            "type": "mod",
+            "size": 3906057,
+            "hash": "eee3f51222b0bcc714def002ff089ac9e131d3cae4575b542fd0a7dd101fe0af",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/deeperdarker-neoforge-1.21.1-1.4.1.jar"
         },
         {
             "path": "mods/delightfulcreators-1.2.jar",
@@ -3197,13 +3666,6 @@
             "size": 10981280,
             "hash": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/gml-6.0.2.jar"
-        },
-        {
-            "path": "mods/gravestone-neoforge-1.21.1-1.0.37.jar",
-            "type": "mod",
-            "size": 321955,
-            "hash": "7c187eeaa56ac65d2ffd6f350c57ff98fe0f680ae23490d87882e22653a53765",
-            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/gravestone-neoforge-1.21.1-1.0.37.jar"
         },
         {
             "path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
@@ -3449,6 +3911,13 @@
             "size": 1938281,
             "hash": "ac48316842b478777cead0a39e7c8a51810ffa1d848d8ad8f3f56d03eedc5549",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar"
+        },
+        {
+            "path": "mods/ntgl-1.21.1-3.1.8.jar",
+            "type": "mod",
+            "size": 3966979,
+            "hash": "41d0601d5b562f863a14fe9363aa80fda9472416593fb2ec4d57fcaa6da284f5",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/ntgl-1.21.1-3.1.8.jar"
         },
         {
             "path": "mods/oceansdelight-neoforge-1.0.4-1.21.1.jar",
