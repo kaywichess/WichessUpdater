@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minecraft": "1.21.1",
     "loader": "NeoForge",
-    "created": "2026-08-03 12:53:57",
+    "created": "2026-08-03 16:25:11",
     "files": [
         {
             "path": "config/CoroUtil/General.toml",
@@ -283,7 +283,7 @@
             "path": "config/asyncparticles/asyncparticles-mixin.properties",
             "type": "config",
             "size": 2226,
-            "hash": "cbf0f112e7f022afaaa12bda09da4857c13e6e66081e231263aff4f319950a6f",
+            "hash": "72bba1f9edaf13ede14cebfa3ef8637e1f02bfae8dc03567a0d4662b5b943bf9",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/asyncparticles/asyncparticles-mixin.properties"
         },
         {
@@ -1473,7 +1473,7 @@
             "path": "config/fabric/indigo-renderer.properties",
             "type": "config",
             "size": 290,
-            "hash": "08ffdeb1aa62b7ac18e9045526368ad6d8a379e07a7319b29459a50c09ef8232",
+            "hash": "05e08d1cf74e6ed6ec7e092edc7573b78801f3b67e7535b326a5d446760cbc10",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/fabric/indigo-renderer.properties"
         },
         {
@@ -1753,7 +1753,7 @@
             "path": "config/iris.properties",
             "type": "config",
             "size": 297,
-            "hash": "19b5fce89125b14155f89ad2d30b2d20439eca88aebfa2b236faeac01dd5ddb4",
+            "hash": "19ee875f4a730f966b3d1bb22ba65cf5868a8c02f895bed9d40728e0bf413181",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/config/iris.properties"
         },
         {
@@ -3463,6 +3463,13 @@
             "size": 390889,
             "hash": "ee8b0f78812d6a97aab0c1416ee599a538ebeac8456b1e494d06a48fbe9eff14",
             "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/createcafe-1.4.3.jar"
+        },
+        {
+            "path": "mods/createcmo-1.3.0-create-6.0.x-neoforge-1.21.1.jar",
+            "type": "mod",
+            "size": 77833,
+            "hash": "7d65489eec3b97e2aee53192a723d07d06dd723951206619094be44ac68af0d7",
+            "download": "https://raw.githubusercontent.com/kaywichess/WichessUpdater/main/files/mods/createcmo-1.3.0-create-6.0.x-neoforge-1.21.1.jar"
         },
         {
             "path": "mods/createdieselgenerators-1.21.1-1.3.14.jar",
